@@ -1,0 +1,2 @@
+# Morphological Analysis for Assamese
+The original repository for the code and materials for the article named "Morphological Analysis and Disambiguation of Agglutinative Assamese through Rule-Based Synthesis and Neural Sentence Scoring"
