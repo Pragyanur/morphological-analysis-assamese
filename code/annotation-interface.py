@@ -6,14 +6,13 @@ import os
 
 WARP_LEN = 1260
 
-file_name = "annotation/label-UD_.csv"
-df = pd.read_csv(file_name)
+INPUT_PATH = "resources/samples.csv"
+OUTPUT_PATH = "resources/samples_checkpoint.csv"
+df = pd.read_csv(INPUT_PATH)
 
 root = tk.Tk()
 root.title("Annotation Tool")
 root.geometry("1260x720")
-
-checkpoint_file = "annotation/label-UD_checkpoint.csv"
 
 # Default values
 current_index = 0
@@ -22,9 +21,9 @@ previous_choices = {}
 
 
 # Load checkpoint if exists
-if os.path.exists(checkpoint_file):
+if os.path.exists(OUTPUT_PATH):
     # print("file-found")
-    checkpoint_df = pd.read_csv(checkpoint_file)
+    checkpoint_df = pd.read_csv(OUTPUT_PATH)
 
     annotations = checkpoint_df.to_dict("records")
 
@@ -222,7 +221,7 @@ def next_item():
 
 def save_annotations():
     out_df = pd.DataFrame(annotations)
-    out_df.to_csv(checkpoint_file, index=False)
+    out_df.to_csv(OUTPUT_PATH, index=False)
 
 
 next_button = ttk.Button(

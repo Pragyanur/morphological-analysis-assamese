@@ -150,7 +150,7 @@ def regenerate_options_preserve_selection(
 
 import pandas as pd
 import ast
-from morphology_inrule import rule_based_forward_analysis
+from morphology import rule_based_forward_analysis
 
 
 # =========================================================
@@ -263,15 +263,6 @@ new_words_df.to_csv(NEW_WORDS, index=False, encoding="utf-8")
 
 print(f"Saved updated annotations to: {UPDATED_B}")
 print(f"Saved new words with generated options to: {NEW_WORDS}")
-
-
-
-
-
-
-
-
-
 
 
 

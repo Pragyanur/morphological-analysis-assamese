@@ -32,11 +32,11 @@ def train_test_split_by_sentence(df, test_size=0.1, random_state=10):
 
 file_ext = ".csv"
 
-DATASET_PATH = "annotation/annotated-dataset/1072-annotated-dataset-updated.csv"
+DATASET_PATH = "dataset/1072-annotated-dataset-updated.csv"
 
-EPOCHS = 50
-NEG_RATIO = 21
-AUG_FACTOR = 21
+EPOCHS = 5
+NEG_RATIO = 2
+AUG_FACTOR = 2
 MODEL_DIM = 32
 HEADS = 8
 LAYERS = 1

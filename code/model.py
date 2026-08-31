@@ -11,27 +11,12 @@ LINEAR = 32
 DIM_FF = 64
 WINDOW_SIZE = 40
 
-
-# ranking accuracy > 58% with
-# MODEL_DIM = 16
-# HEADS = 4
-# LAYERS=3
-# LINEAR=32
-# DIM_FF=64
-# window_size=30, 
-# feature_dim=64, 
-# neg_ratio=3, 
-# augment_factor=3
-
 class MorphoTransformer(nn.Module):
     def __init__(self, feature_dim=64, window_size=WINDOW_SIZE, nhead=HEADS, num_layers=LAYERS, model_dim=MODEL_DIM, linear=LINEAR, feedforward_dim=DIM_FF):
         super(MorphoTransformer, self).__init__()
         self.model_dim = model_dim
         self.input_projection = nn.Linear(feature_dim, self.model_dim)
-        
-        # Learnable positional embeddings to work with your jittering
-        # self.pos_embedding = nn.Parameter(torch.randn(1, window_size, self.model_dim))
-        
+                
         # --- Fixed Sinusoidal Positional Embeddings ---
         pe = torch.zeros(window_size, self.model_dim)
         position = torch.arange(0, window_size, dtype=torch.float).unsqueeze(1)
@@ -58,19 +43,11 @@ class MorphoTransformer(nn.Module):
         x = self.input_projection(x)
         
         # Add the fixed positional embeddings
-        # self.pe is (1, 30, 64)
         x = x + self.pe[:, :x.size(1), :]
 
         # x = self.input_projection(x) + self.pos_embedding
         x = self.transformer_encoder(x, src_key_padding_mask=mask)
-        
-        # # Masked Average Pooling: Only average the real words, ignore padding
-        # if mask is not None:
-        #     active = mask.logical_not().unsqueeze(-1).float()
-        #     pooled = torch.sum(x * active, dim=1) / torch.clamp(torch.sum(active, dim=1), min=1e-9)
-        # else:
-        #     pooled = x.mean(dim=1)
-        
+                
         # Mean + Max Pooling
         if mask is not None:
             active = mask.logical_not().unsqueeze(-1).float()

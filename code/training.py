@@ -271,7 +271,7 @@ def plot_unified_training_history(losses, ranking_accs, Nn, Na, model_dim=32):
     # =========================================================
     # 4. Save and Close File
     # =========================================================
-    output_name = f"models/training_{Nn}_{Na}.png"
+    output_name = f"models/learning curve/training_{Nn}_{Na}.png"
     # bbox_inches='tight' forces matplotlib to include the floating top legend safely
     plt.savefig(output_name, dpi=300, bbox_inches="tight")
     plt.close()  # Clear memory allocations after saving

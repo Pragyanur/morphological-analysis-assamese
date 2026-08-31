@@ -1,11 +1,11 @@
 import csv
-import morphology_inrule as mir
+import morphology as mir
 
-# MAX_OPTS = 4
-
+INPUT_PATH = "resources/raw-sentences/max_opts_4.txt"
+OUTPUT_PATH = "resources/samples.csv"
 
 for i in range(1):
-    with open("annotation/ud_assamese_sentences_normalized.txt", "r", encoding='utf-8') as f:
+    with open(INPUT_PATH, "r", encoding='utf-8') as f:
         sentences = f.read().split("\n")
 
     data = []
@@ -22,8 +22,7 @@ for i in range(1):
         else:
             continue
 
-    # with open(f'annotation/label-opts-{MAX_OPTS}_.csv', 'w', newline='', encoding='utf-8') as file:
-    with open(f'annotation/label-UD_.csv', 'w', newline='', encoding='utf-8') as file:
+    with open(OUTPUT_PATH, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(["sentence-id", "word-id", "sentence", "word", "options"])
         for d in data:

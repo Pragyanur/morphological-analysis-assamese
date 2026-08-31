@@ -3,87 +3,37 @@ from collections import defaultdict
 import numpy as np
 import re
 
-# the wikipedia contains mainly 3rd person sentences
-# with open("data/morphology-learning-decompositions-wiki-update.json", "r", encoding='utf-8') as f:
-#     wiki_decompositions = json.load(f)
 
-# with open("data/word_count_wiki.json", "r", encoding='utf-8') as f:
-#     wiki_ = json.load(f)
-
-# with open("data/morphology-learning-decompositions.json", "r", encoding='utf-8') as f:
-#     sangraha_decompositions = json.load(f)
-
-# with open("data/word_count.json", "r", encoding='utf-8') as f:
-#     sangraha_ = json.load(f)
-
-with open("data/PoS-mapping.json", 'r', encoding='utf-8') as f:
+with open("resources/PoS-mapping.json", 'r', encoding='utf-8') as f:
     POS_MAP = json.load(f)
-# with open("updated-resources/PoS-mapping.json", 'r', encoding='utf-8') as f:
-#     POS_MAP = json.load(f)
 
-# with open("data/derivational_probabilities_type1.json", "r", encoding='utf-8') as f:
-#     der = json.load(f)
-    
-# with open("data/derivational_probabilities_type2.json", "r", encoding='utf-8') as f:
-#     der2 = json.load(f)
-
-# with open("data/suffix-case.json", "r", encoding='utf-8') as f:
-#     case_suf = json.load(f)
-
-with open("data/suffix-all-features.json", "r", encoding='utf-8') as f:
+with open("resources/suffix-all-features.json", "r", encoding='utf-8') as f:
     morpheme_all_features = json.load(f)
-# with open("updated-resources/suffix-all-features.json", "r", encoding='utf-8') as f:
-#     morpheme_all_features = json.load(f)
 
-with open("data/derivational_probabilities_type1.json", "r", encoding='utf-8') as f:
+with open("resources/derivational_probabilities_type1.json", "r", encoding='utf-8') as f:
     DERIVATIONS_T1 = json.load(f)
-# with open("updated-resources/derivational_probabilities_type1.json", "r", encoding='utf-8') as f:
-#     DERIVATIONS_T1 = json.load(f)
 
-# with open("data/suffix-all-features-type2.json", "r", encoding='utf-8') as f:
-#     morpheme_all_features_2 = json.load(f)
-
-# with open("data/derivational_probabilities_type2.json", "r", encoding='utf-8') as f:
-#     DERIVATIONS_T2 = json.load(f)
-
-with open("data/pronouns-case.json", "r", encoding='utf-8') as f:
+with open("resources/pronouns-case.json", "r", encoding='utf-8') as f:
     PRONOUN_DETAIL = json.load(f)
-# with open("updated-resources/pronouns-case.json", "r", encoding='utf-8') as f:
-#     PRONOUN_DETAIL = json.load(f)
 
-# with open("data/tag-seq-rules.json", "r", encoding='utf-8') as f:
-#     TAG_SEQ_RULES = json.load(f)
-with open("data/tag-seq-rules-updated.json", "r", encoding='utf-8') as f:
+with open("resources/tag-seq-rules-updated.json", "r", encoding='utf-8') as f:
     TAG_SEQ_RULES = json.load(f)
 
-# with open("data/derivational_possibilities.json", "r", encoding='utf-8') as f:
-#     DERIVATIONAL_POSSIBILITIES = json.load(f)
-
-with open("data/suffix-number.json", "r", encoding='utf-8') as f:
+with open("resources/suffix-number.json", "r", encoding='utf-8') as f:
     NUMBER_DETAIL = json.load(f)
-# with open("updated-resources/suffix-number.json", "r", encoding='utf-8') as f:
-#     NUMBER_DETAIL = json.load(f)
 
-with open("data/vowel_verbs.json", "r", encoding='utf-8') as f:
+with open("resources/vowel_verbs.json", "r", encoding='utf-8') as f:
     VOWEL_VERB = json.load(f)
-# with open("updated-resources/vowel_verbs.json", "r", encoding='utf-8') as f:
-#     VOWEL_VERB = json.load(f)
 
-with open("data/verbable.json", "r", encoding='utf-8') as f:
+with open("resources/verbable.json", "r", encoding='utf-8') as f:
     VERBABLE = json.load(f)
-# with open("updated-resources/verbable.json", "r", encoding='utf-8') as f:
-#     VERBABLE = json.load(f)
 
-with open("data/symbol-mapping.json", "r", encoding='utf-8') as f:
+with open("resources/symbol-mapping.json", "r", encoding='utf-8') as f:
     SYMBOL_MAP = json.load(f)
-# with open("updated-resources/symbol-mapping.json", "r", encoding='utf-8') as f:
-#     SYMBOL_MAP = json.load(f)
-
 
 features = set()
 
 for m,d in morpheme_all_features.items():
-# for m,d in morpheme_all_features_2.items():
     features.update(d)
 
 
@@ -116,11 +66,6 @@ for idx, word in enumerate(sorted(morpheme_all_features.keys())):
 
 WORD_TO_ID[" "] = len(WORD_TO_ID)
 ID_TO_WORD[len(WORD_TO_ID)] = " "
-
-# first let us obtain the probabilities for bigram
-# i.e. given the previous tag, what is the probability of the next tag
-# if we obtain the same rules as we predicted then ou hypothesis is correct
-# we need to keep track that a lot of the decompositions contain noun inflections that are not in the lexicon
 
 # initialization
 MAX_LABELS = len(LABEL_TO_ID)
@@ -167,12 +112,7 @@ def rule_matrix_init(label_to_id=LABEL_TO_ID, bigram_tag_rules=TAG_SEQ_RULES):
             elif j in bigram_tag_rules[i]:
                 rule_matrix[label_to_id[i]][label_to_id[j]] = 1
 
-            # if is_transition_valid(i,j):
-            #     rule_matrix[label_to_id[i]][label_to_id[j]] = 1
     return rule_matrix
-
-# def possible_derivations(pos_tag, morpheme, der_poss=DERIVATIONAL_POSSIBILITIES):
-#     return der_poss[morpheme][pos_tag] # list of possible tags
 
 rule_matrix = rule_matrix_init()
 
@@ -187,20 +127,6 @@ def rule_based_forward_analysis(word, morphemes_by_tag=morphemes_by_tag, rule_ma
         if not remaining_word:
             # Check if the current_tag is allowed to end a word (transition to 'we')
             if rule_matrix[label_to_id[current_tag]][label_to_id.get("we", -1)] > 0:
-                # check if there are multiple derivations
-                # invalid = False
-                # count_derivations = 0
-                # for i in current_sequence:
-                #     if i[1] == "derivational":
-                #         count_derivations += 1
-                #     if count_derivations > 1:
-                #         invalid = True
-                #         break    
-                    
-                # if not invalid:
-                #     # We append a copy to avoid reference issues
-                #     all_valid_sequences.append([item[:] for item in current_sequence])
-                
                 # Check for multiple derivations
                 if sum(i[1] == "derivational" for i in current_sequence) <= 1:
                     all_valid_sequences.append([item[:] for item in current_sequence])
@@ -253,8 +179,6 @@ def rule_based_forward_analysis(word, morphemes_by_tag=morphemes_by_tag, rule_ma
     # Start the analysis
     solve(word, "ws", [])
 
-    # Sort by fewest morphemes (heuristic for 'best' analysis) 
-    # since we aren't using probabilities here
     return sorted(all_valid_sequences, key=lambda x: len(x))
 
 SPECIAL_CHARS = "\",:;()[]{}/|`~@#$\\%^&*_+-=?!।"
@@ -391,35 +315,6 @@ MORPHOLOGY_FEATURES = {
     'without': 0
 }
 
-# print(len(MORPHOLOGY_FEATURES))
-
-ALT_FEATURES = {
-    "sup_PoS": 0,
-    "sub_PoS": 0,
-    "adj_comp": 0,
-    "after_comp": 0,
-    "reason_comp": 0,
-    "when_comp": 0,
-    "modal": 0,
-    "number": 0,
-    "person": 0,
-    "case": 0,
-    "derivation": 0,
-    "tense": 0,
-    "manner": 0,
-    "mod_attr": 0,
-    "quantity": 0,
-    "compare": 0,
-    "numerical": 0,
-    "negative": 0,
-    "emph": 0,
-    "dash": 0,
-    "ardha": 0,
-    "comma": 0,
-    "EoS": 0,
-    "symbol": 0
-}
-
 def vectorize_morphology(
         sequence,
         pos_map=POS_MAP,
@@ -433,8 +328,6 @@ def vectorize_morphology(
     vector_dict = default_features.copy()
     pos_decay = 0.25
     pos_num = 0
-    # der_decay = 0.25
-    # der_num = 0
     for morpheme in sequence[::-1]:
         this_tag = morpheme[1]
         this_morpheme = morpheme[0]
@@ -450,13 +343,7 @@ def vectorize_morphology(
         elif this_tag == "symbol":
             vector_dict[symbol_map[this_morpheme]] += 1
         elif this_tag == "derivational":
-            # vector_dict[this_tag] = 1 - der_decay * der_num
             vector_dict[this_tag] = 1
-            # der_num += 1
-        # elif this_tag == "adj_comp":
-        #     vector_dict[this_tag] += 1
-        #     vector_dict["Adjective"] += 0.25
-        #     vector_dict["Noun"] += 0.25
         elif this_tag in pos_map:
             weight = 1 - pos_decay * pos_num
             if vector_dict[this_tag] == 0:
@@ -475,70 +362,3 @@ def vectorize_morphology(
     vector = np.array([value for key, value in sorted(vector_dict.items())])
 
     return vector
-
-# def vectorize_morphology(
-#         sequence,
-#         pos_map=POS_MAP,
-#         num_detail=NUMBER_DETAIL,
-#         default_features=MORPHOLOGY_FEATURES,
-#         verb_suffixes=VERB_SUFFIXES,
-#         symbol_map=SYMBOL_MAP
-#         # vowel_verb_map=VOWEL_VERB,
-#         # verbable_map=VERBABLE
-#     ):
-#     vector_dict = default_features.copy()
-#     flag_PoS = False
-#     for morpheme in sequence[::-1]:
-#         this_tag = morpheme[1]
-#         this_morpheme = morpheme[0]
-#         if this_tag == "number":
-#             vector_dict[num_detail[this_morpheme]] = 1
-#         if this_tag == "Pronoun":
-#             p,h = pronoun_person_honorific(this_morpheme)
-#             if p: vector_dict[p] = 1
-#             if h: vector_dict[h] = 1
-#         if this_tag == "symbol":
-#             vector_dict[symbol_map[this_morpheme]] = 1
-#         if not flag_PoS and this_tag in pos_map:
-#             vector_dict[this_tag] = 1
-#             vector_dict[pos_map[this_tag]] = 1
-#             flag_PoS = True
-#         if this_tag in verb_suffixes:
-#             t,p,h = tense_person_honorific(this_tag)
-#             if t: vector_dict[t] = 1
-#             if p: vector_dict[p] = 1
-#             if h: vector_dict[h] = 1
-#         else: vector_dict[this_tag] = 1
-
-#     vector = np.array([value for key, value in sorted(vector_dict.items())])
-
-#     return vector
-
-# print(vectorize_morphology([['দৰমহা', 'Abstract Noun']]))
-# print(len(vectorize_morphology([['দৰমহা', 'Abstract Noun']])))
-# print(vectorize_morphology('None of the above'))
-# print(len(vectorize_morphology('None of the above')))
-# print(sentence_word_options("মই ভাত খাওঁ ।"))
-# print(vectorize_morphology([['খাওঁ', 'Others']]))
-
-# analyses = rule_based_forward_analysis("জাকজমকতাৰে")
-# for a in analyses:
-#     print(a)
-#     print(vectorize_morphology(a))
-
-# [['জাকজমক', 'Adjective Adj.'], ['তা', 'derivational'], ['', 'Abstract Noun'], ['ৰে', 'Abstract Noun']]
-# [1.  0.5 0.5 0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.
-#  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.
-#  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
-#  0.  0.  0.  0.  0.  0.  0.  0.  0.  0. ]
-# [['জাকজমক', 'Adjective Adj.'], ['তা', 'derivational'], ['', 'Abstract Noun'], ['ৰে', 'inst']]
-# [1.  0.5 0.5 0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.
-#  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.
-#  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
-#  0.  0.  0.  0.  0.  0.  0.  0.  0.  0. ]
-# [['জাকজমক', 'Adjective Adj.'], ['তা', 'derivational'], ['', 'Abstract Noun'], ['ৰ', 'gen'], ['ে', 'emph']]
-# [1.  0.5 0.5 0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.
-#  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  1.  0.  0.  0.  1.
-#  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
-#  0.  0.  0.  0.  0.  0.  0.  0.  0.  0. ]
-
