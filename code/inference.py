@@ -82,9 +82,9 @@ MODEL_PATH = "models/n21_a21_epoch50.pth"
 with open("models/n21_a21_epoch50_MODEL_PARAMS.json", "r") as f:
     params = json.load(f)
 
-text = "শীঘ্ৰেই ৰেগিং কাণ্ডৰ লগত জড়িত কেবাগৰাকী জ্যেষ্ঠ ছাত্ৰ গ্ৰেপ্তাৰ হোৱাৰ সম্ভাৱনা আছে ।"
+text = "তেওঁ সকলোকে অৱগত কৰিছিল , আৰু এই সময়ছোৱাত তেওঁৰ সংস্পৰ্শলৈ অহাসকলেও তেওঁলোকক সজাগ কৰিছিল ।"
 
 result = run_inference(text, sentence_word_options, vectorize_morphology, MODEL_PATH, params["WINDOW_SIZE"], params["FEATURE_DIM"], params["HEADS"], params["LAYERS"], params["MODEL_DIM"], params["LINEAR"], params["DIM_FF"])
 print(result)
 
-# {'best_score': 0.26195940375328064, 'total_combinations': 216, 'best_sequence_index': 55, 'best_sequence_tags': [[['শীঘ্ৰে', 'Adverb'], ['ই', 'emph']], [['ৰেগিং', 'Verbal Noun']], [['কাণ্ড', 'Abstract Noun'], ['ৰ', 'gen']], [['লগত', 'Conjuction']], [['জড়িত', 'Proper Adj.']], [['কেব', 'Verbable'], ['া', 'adj_comp'], ['গৰাকী', 'number']], [['জ্যেষ্ঠ', 'Proper Adj.']], [['ছাত্ৰ', 'Common Noun']], [['গ্ৰেপ্তাৰ', 'Verbal Noun']], [['হ', 'Verb-Intran.'], ['োৱা', 'adj_comp'], ['ৰ', 'gen']], [['সম্ভাৱনা', 'Abstract Noun']], [['আছ', 'Verb-Intran.'], ['ে', 'present-3a']], [['।', 'symbol']]]}
+# {'best_score': 0.08488170057535172, 'total_combinations': 1152, 'best_sequence_index': 823, 'best_sequence_tags': [[['তেওঁ', 'Pronoun'], ['', 'abs']], [['সকলো', 'Pronoun'], ['ক', 'acc'], ['ে', 'emph']], [['অৱগত', 'Proper Adj.']], [['কৰ', 'Verb-Trans.'], ['িছিল', 'past-3a']], [[',', 'symbol']], [['আৰু', 'Conjuction']], [['এই', 'Pronoun'], ['', 'abs']], [['সময়ছোৱা', 'Abstract Noun'], ['ত', 'loc']], [['তেওঁৰ', 'Pronoun'], ['', 'gen']], [['সংস্পৰ্শ', 'Verbal Noun'], ['লৈ', 'dat']], [['অহা', 'Proper Adj.'], ['সকল', 'number'], ['ে', 'erg'], ['ও', 'emph']], [['তেওঁলোকক', 'Pronoun'], ['', 'acc']], [['সজাগ', 'Proper Adj.']], [['কৰ', 'Verb-Trans.'], ['িছিল', 'past-3a']], [['।', 'symbol']]]}
