@@ -1,0 +1,190 @@
+{
+    "িছ": [{
+        "tense": "present",
+        "person": 2,
+        "honorific": ["informal"]
+    }],
+    "ছ": [{
+        "tense": "present",
+        "person": 2,
+        "honorific": ["informal"]
+    }],
+    "য়": [{
+        "tense": "present",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "ে": [{
+        "tense": "present",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "া": [{
+        "tense": "present",
+        "person": 2,
+        "honorific": ["neutral"]
+    }],
+    "ছে": [{
+        "tense": "present",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "present",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "ছা": [{
+        "tense": "present",
+        "person": "2",
+        "honorific": ["neutral"]
+    }],
+    "িছে": [{
+        "tense": "present",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "present",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "ইছে": [{
+        "tense": "present",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "present",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "িছা": [{
+        "tense": "present",
+        "person": 2,
+        "honorific": ["neutral"]
+    }],
+
+    "লে": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "past",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "ল": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "'ল": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "ছিল": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "িল": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "িলে": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "ৈছিল": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "past",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "িছিলে": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "past",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "ৈছিলে": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "past",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "ইছিলে": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "past",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "ছিলে": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "past",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "ইছিল": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "past",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+    "িছিল": [{
+        "tense": "past",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }, {
+        "tense": "past",
+        "person": 2,
+        "honorific": ["formal"]
+    }],
+
+    "ব": [{
+        "tense": "future",
+        "person": 2,
+        "honorific": ["formal"]
+    }, {
+        "tense": "future",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "'ব": [{
+        "tense": "future",
+        "person": 2,
+        "honorific": ["formal"]
+    }, {
+        "tense": "future",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }],
+    "িব": [{
+        "tense": "future",
+        "person": 2,
+        "honorific": ["formal"]
+    }, {
+        "tense": "future",
+        "person": 3,
+        "honorific": ["formal", "informal", "neutral"]
+    }]
+}

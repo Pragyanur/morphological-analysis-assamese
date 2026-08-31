@@ -1,0 +1,32 @@
+{
+    "ন": "negative",
+    "নো": "negative",
+    "নু": "negative",
+    "নি": "negative",
+    "না": "negative",
+    "নে": "negative",
+
+    "বিনা-": "without",
+    "বিনা": "without",
+
+    "ভূ": "other",
+    "ভূতপূৰ্ব্ব": "other",
+    "সমকালী": "other",
+    "এককালী": "other",
+    "সকালী": "other",
+    "প্ৰাক": "other",
+    "প্ৰাগ": "other",
+    "পূৰ্ব": "other",
+    "আন্তঃ": "other",
+    "নৰ": "other",
+    "নৃ": "other",
+
+    "দহ": "numerical",
+    "আঠ": "numerical",
+    "ছ": "numerical",
+    "পাচ": "numerical",
+    "চাৰি": "numerical",
+    "তিন": "numerical",
+    "দু": "numerical",
+    "এ": "numerical"
+}

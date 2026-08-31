@@ -1,0 +1,30 @@
+{
+  "পাৰা": "modal",
+  "পৰা": "modal",
+  "হেঁতেন": "modal",
+  "হেতেন": "modal",
+
+  "োৱা": "adj_comp",
+  "ুৱা": "adj_comp",
+  "া": "adj_comp",
+  "ওৱা": "adj_comp",
+  "উৱা": "adj_comp",
+  "িয়া": "adj_comp",
+
+  "িবলৈ": "reason_comp",
+  "িবলৈকে": "reason_comp",
+  "বলৈ": "reason_comp",  
+  "বলৈকে": "reason_comp",  
+  
+  "তে": "when_comp",
+  "ত": "when_comp",
+  "াত": "when_comp",
+  "ে": "when_comp",
+  "লে": "when_comp",
+  "িলে": "when_comp",
+
+  "ি": "after_comp",
+  "ৈ": "after_comp",
+  "াই": "after_comp",
+  "ই": "after_comp"
+}

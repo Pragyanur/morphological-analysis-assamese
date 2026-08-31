@@ -1,0 +1,21 @@
+{
+    "Conjuction" : "Conjunction",
+    "Verbal Noun" : "Noun",
+    "Others" : "Others",
+    "Interjection" : "Others",
+    "Verb-Intran." : "Verb",
+    "Adjective" : "Adjective",
+    "Pronoun" : "Pronoun",
+    "Common Noun" : "Noun",
+    "Abstract Noun" : "Noun",
+    "Proper Adj." : "Adjective",
+    "Noun" : "Noun",
+    "Proper Noun" : "Noun",
+    "Verbal Adj." : "Adjective",
+    "Adverb" : "Adverb",
+    "Verb-Trans." : "Verb",
+    "Material Noun" : "Noun",
+    "Adjective Adj." : "Adjective",
+    "Adposition" : "Adposition",
+    "Verbable" : "Verbable"
+}

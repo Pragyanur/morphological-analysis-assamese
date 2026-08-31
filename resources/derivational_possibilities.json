@@ -1,0 +1,2688 @@
+{
+ "কৈ": {
+  "Proper Adj.": [
+   "Adverb",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Abstract Noun": [
+   "Adverb",
+   "Verbal Adj."
+  ],
+  "Adverb": [
+   "Adverb",
+   "Adjective Adj."
+  ],
+  "Verbal Adj.": [
+   "Adverb"
+  ],
+  "Verbable": [
+   "Adverb"
+  ],
+  "Pronoun": [
+   "Adverb",
+   "Conjuction"
+  ],
+  "Conjuction": [
+   "Adverb",
+   "Conjuction"
+  ],
+  "Verbal Noun": [
+   "Adverb"
+  ],
+  "Verb-Trans.": [
+   "Adverb"
+  ],
+  "Material Noun": [
+   "Adverb"
+  ],
+  "Adjective Adj.": [
+   "Adverb"
+  ],
+  "Adposition": [
+   "Adposition",
+   "Conjuction"
+  ],
+  "Common Noun": [
+   "Verbal Adj."
+  ],
+  "Interjection": [
+   "Adverb"
+  ]
+ },
+ "া": {
+  "Verbable": [
+   "Common Noun",
+   "Verb-Intran.",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Interjection",
+   "Material Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Adposition",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun",
+   "Pronoun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Pronoun": [
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Pronoun"
+  ],
+  "Adverb": [
+   "Adverb",
+   "Abstract Noun"
+  ],
+  "Adjective Adj.": [
+   "Adverb",
+   "Proper Noun",
+   "Material Noun",
+   "Adjective Adj."
+  ],
+  "Interjection": [
+   "Proper Noun",
+   "Material Noun"
+  ],
+  "Conjuction": [
+   "Abstract Noun"
+  ]
+ },
+ "ন": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adposition",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbable",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Verbable",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verbable": [
+   "Proper Noun",
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Abstract Noun"
+  ],
+  "Pronoun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Noun": [
+   "Abstract Noun"
+  ],
+  "Conjuction": [
+   "Proper Adj."
+  ],
+  "Adverb": [
+   "Material Noun"
+  ]
+ },
+ "িত": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Material Noun": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Verb-Trans.": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Verbable": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Verbal Adj.": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Proper Noun": [
+   "Proper Adj."
+  ],
+  "Common Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Proper Noun"
+  ],
+  "Verb-Intran.": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Pronoun": [
+   "Verbal Adj."
+  ],
+  "Adverb": [
+   "Adverb"
+  ]
+ },
+ "না": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Material Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun",
+   "Pronoun"
+  ],
+  "Verbal Noun": [
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Pronoun": [
+   "Common Noun",
+   "Proper Adj."
+  ],
+  "Adverb": [
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Abstract Noun"
+  ]
+ },
+ "াৰ": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Pronoun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Trans.": [
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun",
+   "Verb-Trans."
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Pronoun": [
+   "Proper Adj.",
+   "Pronoun"
+  ],
+  "Adverb": [
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj."
+  ],
+  "Verb-Intran.": [
+   "Common Noun"
+  ],
+  "Verbal Adj.": [
+   "Proper Noun"
+  ]
+ },
+ "ী": {
+  "Abstract Noun": [
+   "Adjective",
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj.",
+   "Pronoun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Interjection",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Common Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Proper Adj."
+  ],
+  "Adjective Adj.": [
+   "Common Noun",
+   "Adjective Adj."
+  ],
+  "Pronoun": [
+   "Common Noun"
+  ],
+  "Adverb": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Interjection": [
+   "Proper Adj."
+  ]
+ },
+ "য়": {
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Proper Adj.",
+   "Interjection",
+   "Adverb",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Proper Adj.",
+   "Proper Noun"
+  ],
+  "Verbable": [
+   "Abstract Noun"
+  ],
+  "Adverb": [
+   "Common Noun",
+   "Adverb"
+  ],
+  "Verbal Noun": [
+   "Proper Adj."
+  ],
+  "Verb-Trans.": [
+   "Verb-Intran.",
+   "Proper Noun"
+  ],
+  "Verb-Intran.": [
+   "Material Noun"
+  ],
+  "Adjective Adj.": [
+   "Adjective Adj."
+  ],
+  "Adposition": [
+   "Proper Adj."
+  ],
+  "Verbal Adj.": [
+   "Verbal Adj."
+  ],
+  "Conjuction": [
+   "Proper Adj."
+  ]
+ },
+ "কাৰী": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Verbal Adj.": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Material Noun": [
+   "Common Noun"
+  ],
+  "Common Noun": [
+   "Proper Adj."
+  ],
+  "Proper Noun": [
+   "Common Noun"
+  ]
+ },
+ "মূলক": {
+  "Abstract Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Proper Adj."
+  ],
+  "Verb-Trans.": [
+   "Proper Adj."
+  ],
+  "Material Noun": [
+   "Proper Adj."
+  ],
+  "Verb-Intran.": [
+   "Proper Adj."
+  ]
+ },
+ "ু": {
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Interjection",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun"
+  ],
+  "Proper Noun": [
+   "Interjection",
+   "Common Noun",
+   "Proper Adj.",
+   "Proper Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Proper Noun",
+   "Material Noun",
+   "Verbal Noun"
+  ],
+  "Pronoun": [
+   "Common Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Material Noun"
+  ],
+  "Verbal Adj.": [
+   "Common Noun",
+   "Proper Noun"
+  ],
+  "Adjective Adj.": [
+   "Proper Noun"
+  ]
+ },
+ "পতি": {
+  "Proper Noun": [
+   "Proper Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Noun",
+   "Proper Adj."
+  ],
+  "Verbable": [
+   "Common Noun"
+  ],
+  "Adverb": [
+   "Adverb"
+  ],
+  "Verb-Intran.": [
+   "Common Noun"
+  ]
+ },
+ "ি": {
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Interjection",
+   "Adverb",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Verbal Adj.": [
+   "Common Noun",
+   "Adverb",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Verb-Trans.",
+   "Adverb",
+   "Material Noun",
+   "Conjuction",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Common Noun",
+   "Verb-Intran.",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Interjection",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Adverb": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Adjective Adj.": [
+   "Common Noun",
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Pronoun": [
+   "Proper Noun",
+   "Material Noun",
+   "Proper Adj."
+  ],
+  "Conjuction": [
+   "Adverb",
+   "Abstract Noun"
+  ],
+  "Adposition": [
+   "Adverb"
+  ]
+ },
+ "তা": {
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verbal Adj.": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Adjective Adj.": [
+   "Common Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Adverb": [
+   "Common Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Pronoun": [
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Adjective": [
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Material Noun"
+  ],
+  "Adposition": [
+   "Abstract Noun"
+  ]
+ },
+ "য়া": {
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun",
+   "Verb-Trans."
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Verb-Intran.",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj."
+  ],
+  "Verbal Noun": [
+   "Verb-Intran.",
+   "Abstract Noun",
+   "Verb-Trans."
+  ],
+  "Adverb": [
+   "Proper Noun"
+  ],
+  "Adjective Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Pronoun": [
+   "Pronoun"
+  ]
+ },
+ "্য": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Trans.": [
+   "Proper Adj.",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Verbal Adj.": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Verbal Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Proper Adj."
+  ]
+ },
+ "ণ": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Proper Adj.",
+   "Verbable",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun",
+   "Pronoun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Verb-Intran.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Pronoun": [
+   "Verbal Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Adposition": [
+   "Abstract Noun"
+  ],
+  "Interjection": [
+   "Material Noun"
+  ],
+  "Verbal Adj.": [
+   "Verbal Noun"
+  ]
+ },
+ "কৰ": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Adjective Adj.",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Material Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Verbal Adj.": [
+   "Abstract Noun"
+  ]
+ },
+ "ভাৱে": {
+  "Proper Adj.": [
+   "Adverb",
+   "Verbal Adj.",
+   "Adposition"
+  ],
+  "Abstract Noun": [
+   "Adverb",
+   "Verbal Adj."
+  ],
+  "Verbal Adj.": [
+   "Adverb"
+  ],
+  "Adjective Adj.": [
+   "Adverb",
+   "Adposition"
+  ],
+  "Adverb": [
+   "Adverb"
+  ],
+  "Adjective": [
+   "Adverb"
+  ],
+  "Pronoun": [
+   "Adverb"
+  ]
+ },
+ "ম": {
+  "Abstract Noun": [
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Material Noun"
+  ],
+  "Pronoun": [
+   "Proper Adj.",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Verbable": [
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Conjuction"
+  ],
+  "Verb-Trans.": [
+   "Proper Adj.",
+   "Verbal Noun",
+   "Conjuction"
+  ],
+  "Verbal Adj.": [
+   "Proper Adj."
+  ]
+ },
+ "ীয়": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adjective Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Proper Adj."
+  ],
+  "Proper Noun": [
+   "Proper Adj.",
+   "Proper Noun"
+  ],
+  "Pronoun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Pronoun"
+  ],
+  "Verb-Intran.": [
+   "Proper Adj."
+  ],
+  "Conjuction": [
+   "Proper Adj."
+  ]
+ },
+ "তি": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Proper Noun",
+   "Verbal Noun"
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Material Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Intran.": [
+   "Proper Adj."
+  ]
+ },
+ "জ": {
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verb-Intran."
+  ],
+  "Pronoun": [
+   "Common Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Conjuction": [
+   "Proper Adj."
+  ]
+ },
+ "ময়": {
+  "Abstract Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj.",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj.",
+   "Material Noun"
+  ],
+  "Proper Noun": [
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Proper Adj.",
+   "Material Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Adposition": [
+   "Proper Adj."
+  ],
+  "Verb-Trans.": [
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Proper Adj."
+  ],
+  "Proper Adj.": [
+   "Proper Adj."
+  ]
+ },
+ "গত": {
+  "Abstract Noun": [
+   "Proper Adj.",
+   "Adverb",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Material Noun": [
+   "Proper Adj.",
+   "Adjective Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Proper Adj."
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Adposition": [
+   "Proper Adj."
+  ],
+  "Verbable": [
+   "Proper Adj."
+  ],
+  "Verb-Trans.": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Verbal Adj."
+  ],
+  "Pronoun": [
+   "Common Noun",
+   "Abstract Noun"
+  ],
+  "Conjuction": [
+   "Common Noun"
+  ],
+  "Proper Noun": [
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Proper Adj."
+  ]
+ },
+ "হীন": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Material Noun": [
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj."
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Adjective Adj.",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Proper Adj."
+  ],
+  "Verbable": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Proper Adj.": [
+   "Proper Adj."
+  ],
+  "Verb-Trans.": [
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Verb-Intran.": [
+   "Proper Adj."
+  ]
+ },
+ "িক": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbable",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Pronoun": [
+   "Proper Adj."
+  ],
+  "Verbal Noun": [
+   "Proper Adj."
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans."
+  ],
+  "Conjuction": [
+   "Proper Adj."
+  ],
+  "Adverb": [
+   "Proper Adj."
+  ]
+ },
+ "ত্ব": {
+  "Proper Adj.": [
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Abstract Noun"
+  ],
+  "Pronoun": [
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Abstract Noun"
+  ],
+  "Adverb": [
+   "Verbal Noun"
+  ],
+  "Verbable": [
+   "Abstract Noun"
+  ],
+  "Adjective Adj.": [
+   "Abstract Noun"
+  ]
+ },
+ "্": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Verbal Noun",
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Common Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Verbal Noun",
+   "Verb-Trans."
+  ],
+  "Verbal Adj.": [
+   "Proper Adj."
+  ],
+  "Proper Noun": [
+   "Proper Noun"
+  ]
+ },
+ "িকা": {
+  "Common Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Material Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun"
+  ],
+  "Verbable": [
+   "Material Noun"
+  ],
+  "Verbal Adj.": [
+   "Common Noun"
+  ]
+ },
+ "ান": {
+  "Proper Adj.": [
+   "Verbal Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Adjective Adj.": [
+   "Material Noun",
+   "Verbal Noun"
+  ],
+  "Material Noun": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Proper Noun": [
+   "Material Noun"
+  ],
+  "Verb-Trans.": [
+   "Abstract Noun"
+  ],
+  "Pronoun": [
+   "Abstract Noun"
+  ]
+ },
+ "বাদ": {
+  "Abstract Noun": [
+   "Proper Noun",
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Interjection",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Abstract Noun"
+  ],
+  "Adverb": [
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Abstract Noun"
+  ],
+  "Conjuction": [
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Abstract Noun"
+  ]
+ },
+ "ৱা": {
+  "Material Noun": [
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Verb-Intran.",
+   "Material Noun",
+   "Proper Adj."
+  ],
+  "Verbal Noun": [
+   "Common Noun"
+  ]
+ },
+ "লি": {
+  "Material Noun": [
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Verbal Noun"
+  ],
+  "Interjection": [
+   "Abstract Noun"
+  ],
+  "Adverb": [
+   "Adverb",
+   "Material Noun"
+  ],
+  "Pronoun": [
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Adjective Adj.": [
+   "Verbal Noun"
+  ]
+ },
+ "কৰণ": {
+  "Proper Adj.": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Adverb": [
+   "Verbal Noun"
+  ],
+  "Conjuction": [
+   "Abstract Noun"
+  ],
+  "Adposition": [
+   "Verbal Noun"
+  ]
+ },
+ "শীল": {
+  "Abstract Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Proper Adj.": [
+   "Proper Adj."
+  ],
+  "Common Noun": [
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Material Noun": [
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Verb-Trans.": [
+   "Proper Adj."
+  ]
+ },
+ "জনক": {
+  "Abstract Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Verbal Noun": [
+   "Proper Adj."
+  ],
+  "Proper Adj.": [
+   "Adjective",
+   "Proper Adj."
+  ],
+  "Proper Noun": [
+   "Proper Adj."
+  ]
+ },
+ "ীয়া": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Conjuction",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Verbable": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Proper Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj."
+  ],
+  "Proper Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Verbal Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Adjective Adj.": [
+   "Proper Adj.",
+   "Adjective Adj."
+  ],
+  "Adposition": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Adverb": [
+   "Proper Adj."
+  ],
+  "Conjuction": [
+   "Proper Adj."
+  ],
+  "Verbal Adj.": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Verb-Trans.": [
+   "Material Noun",
+   "Conjuction"
+  ]
+ },
+ "হ": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Verb-Intran.",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Verb-Intran.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Verb-Intran.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Proper Noun": [
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Proper Adj.",
+   "Verbable"
+  ],
+  "Pronoun": [
+   "Abstract Noun"
+  ],
+  "Interjection": [
+   "Verb-Intran."
+  ],
+  "Verb-Intran.": [
+   "Abstract Noun"
+  ]
+ },
+ "যুক্ত": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Material Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj.",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Verbal Adj."
+  ],
+  "Proper Adj.": [
+   "Proper Adj."
+  ],
+  "Verb-Trans.": [
+   "Verbal Adj."
+  ],
+  "Verbable": [
+   "Proper Adj."
+  ],
+  "Verb-Intran.": [
+   "Proper Adj."
+  ]
+ },
+ "ল": {
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbable",
+   "Verb-Trans.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbable",
+   "Verb-Trans.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verbable",
+   "Verb-Trans.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Adverb": [
+   "Common Noun",
+   "Material Noun",
+   "Verbal Noun"
+  ],
+  "Interjection": [
+   "Material Noun"
+  ],
+  "Adjective Adj.": [
+   "Adjective Adj.",
+   "Verb-Trans."
+  ],
+  "Pronoun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbable",
+   "Interjection",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Proper Adj."
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Material Noun"
+  ],
+  "Adposition": [
+   "Verb-Intran."
+  ]
+ },
+ "াল": {
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Verbal Adj.",
+   "Abstract Noun",
+   "Verbal Noun",
+   "Adjective Adj."
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Abstract Noun",
+   "Verb-Trans."
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ]
+ },
+ "ৰা": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Adjective Adj."
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun"
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Material Noun"
+  ],
+  "Verb-Trans.": [
+   "Proper Adj."
+  ],
+  "Pronoun": [
+   "Common Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Noun"
+  ]
+ },
+ "পূৰ্ণ": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verbal Adj.",
+   "Adjective Adj."
+  ],
+  "Verbal Noun": [
+   "Proper Adj."
+  ],
+  "Material Noun": [
+   "Proper Adj."
+  ],
+  "Verb-Intran.": [
+   "Proper Adj."
+  ],
+  "Proper Noun": [
+   "Proper Adj."
+  ]
+ },
+ "ুৱা": {
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Pronoun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun"
+  ],
+  "Proper Adj.": [
+   "Proper Adj."
+  ],
+  "Verbable": [
+   "Proper Adj.",
+   "Material Noun",
+   "Verb-Trans."
+  ],
+  "Common Noun": [
+   "Proper Adj."
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj."
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Verb-Trans.",
+   "Pronoun"
+  ],
+  "Proper Noun": [
+   "Proper Adj."
+  ],
+  "Verbal Noun": [
+   "Material Noun",
+   "Verbal Adj."
+  ],
+  "Adverb": [
+   "Verb-Intran."
+  ],
+  "Adposition": [
+   "Proper Adj."
+  ],
+  "Conjuction": [
+   "Conjuction"
+  ]
+ },
+ "ৰি": {
+  "Material Noun": [
+   "Common Noun",
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Proper Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Material Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Adj.": [
+   "Material Noun"
+  ]
+ },
+ "কা": {
+  "Material Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Proper Noun",
+   "Verbal Adj.",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Conjuction",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Proper Noun",
+   "Material Noun"
+  ],
+  "Proper Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Conjuction"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Material Noun"
+  ],
+  "Proper Adj.": [
+   "Proper Noun",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verbal Noun": [
+   "Material Noun"
+  ],
+  "Conjuction": [
+   "Common Noun",
+   "Conjuction"
+  ],
+  "Adverb": [
+   "Common Noun"
+  ],
+  "Pronoun": [
+   "Proper Adj."
+  ]
+ },
+ "িয়া": {
+  "Abstract Noun": [
+   "Proper Adj.",
+   "Verb-Intran.",
+   "Verb-Trans.",
+   "Material Noun",
+   "Abstract Noun"
+  ],
+  "Verbable": [
+   "Verb-Intran.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verb-Trans."
+  ],
+  "Material Noun": [
+   "Verbal Noun",
+   "Material Noun",
+   "Abstract Noun",
+   "Verb-Trans."
+  ],
+  "Verb-Trans.": [
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verb-Trans."
+  ],
+  "Verbal Noun": [
+   "Verb-Intran.",
+   "Material Noun"
+  ],
+  "Proper Adj.": [
+   "Adverb",
+   "Proper Adj."
+  ],
+  "Common Noun": [
+   "Verb-Intran.",
+   "Material Noun",
+   "Verbal Noun",
+   "Verb-Trans."
+  ],
+  "Verb-Intran.": [
+   "Verb-Trans."
+  ]
+ },
+ "নি": {
+  "Verbable": [
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Abstract Noun": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Trans.": [
+   "Common Noun",
+   "Proper Adj.",
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Material Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Verb-Intran.": [
+   "Common Noun",
+   "Material Noun",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Common Noun": [
+   "Common Noun",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun",
+   "Verbal Noun"
+  ],
+  "Proper Noun": [
+   "Material Noun",
+   "Verbal Noun"
+  ],
+  "Verbal Noun": [
+   "Proper Adj.",
+   "Verbal Noun",
+   "Abstract Noun"
+  ],
+  "Proper Adj.": [
+   "Proper Adj.",
+   "Adverb",
+   "Material Noun",
+   "Proper Noun",
+   "Abstract Noun"
+  ],
+  "Pronoun": [
+   "Proper Adj."
+  ],
+  "Verbal Adj.": [
+   "Abstract Noun"
+  ]
+ }
+}

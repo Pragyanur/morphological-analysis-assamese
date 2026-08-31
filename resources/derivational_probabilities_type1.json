@@ -1,0 +1,11230 @@
+{
+ "কৈ": [
+  [
+   [
+    "Proper Adj.",
+    "Adverb"
+   ],
+   0.5585106382978723
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adverb"
+   ],
+   0.15425531914893617
+  ],
+  [
+   [
+    "Adverb",
+    "Adverb"
+   ],
+   0.06382978723404255
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Adverb"
+   ],
+   0.03723404255319149
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Adj."
+   ],
+   0.031914893617021274
+  ],
+  [
+   [
+    "Verbable",
+    "Adverb"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Pronoun",
+    "Adverb"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.015957446808510637
+  ],
+  [
+   [
+    "Conjuction",
+    "Adverb"
+   ],
+   0.015957446808510637
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adverb"
+   ],
+   0.010638297872340425
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Adverb"
+   ],
+   0.010638297872340425
+  ],
+  [
+   [
+    "Material Noun",
+    "Adverb"
+   ],
+   0.010638297872340425
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adverb"
+   ],
+   0.005319148936170213
+  ],
+  [
+   [
+    "Adverb",
+    "Adjective Adj."
+   ],
+   0.005319148936170213
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adjective Adj."
+   ],
+   0.005319148936170213
+  ],
+  [
+   [
+    "Pronoun",
+    "Conjuction"
+   ],
+   0.005319148936170213
+  ],
+  [
+   [
+    "Adposition",
+    "Adposition"
+   ],
+   0.005319148936170213
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.005319148936170213
+  ],
+  [
+   [
+    "Interjection",
+    "Adverb"
+   ],
+   0.005319148936170213
+  ],
+  [
+   [
+    "Conjuction",
+    "Conjuction"
+   ],
+   0.005319148936170213
+  ],
+  [
+   [
+    "Adposition",
+    "Conjuction"
+   ],
+   0.005319148936170213
+  ]
+ ],
+ "া": [
+  [
+   [
+    "Verbable",
+    "Verb-Trans."
+   ],
+   0.09775019394879751
+  ],
+  [
+   [
+    "Verbable",
+    "Verb-Intran."
+   ],
+   0.08223429014740109
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.05818463925523662
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.04266873545384019
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.03413498836307215
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.02948021722265322
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.028704422032583398
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.027152831652443754
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.02094647013188518
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.02017067494181536
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.02017067494181536
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Trans."
+   ],
+   0.019394879751745538
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.019394879751745538
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.018619084561675717
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Trans."
+   ],
+   0.018619084561675717
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.017067494181536073
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.016291698991466253
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.016291698991466253
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.016291698991466253
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.01474010861132661
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.013188518231186967
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.013188518231186967
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.013188518231186967
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Trans."
+   ],
+   0.013188518231186967
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.012412723041117145
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Trans."
+   ],
+   0.012412723041117145
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.011636927851047323
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.010861132660977503
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.010861132660977503
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.010861132660977503
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Intran."
+   ],
+   0.010861132660977503
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.01008533747090768
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.01008533747090768
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.01008533747090768
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.009309542280837859
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.009309542280837859
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.008533747090768037
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.007757951900698216
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verb-Trans."
+   ],
+   0.007757951900698216
+  ],
+  [
+   [
+    "Verbable",
+    "Common Noun"
+   ],
+   0.007757951900698216
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Intran."
+   ],
+   0.007757951900698216
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.0069821567106283944
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Adj."
+   ],
+   0.0069821567106283944
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.0069821567106283944
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.0069821567106283944
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.0062063615205585725
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Adj."
+   ],
+   0.0062063615205585725
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Common Noun"
+   ],
+   0.005430566330488751
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.005430566330488751
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.004654771140418929
+  ],
+  [
+   [
+    "Common Noun",
+    "Verb-Trans."
+   ],
+   0.004654771140418929
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.003878975950349108
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.003878975950349108
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.003878975950349108
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Intran."
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Intran."
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verb-Trans."
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.0031031807602792862
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Material Noun"
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verb-Intran."
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Adj."
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Adverb",
+    "Abstract Noun"
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verb-Trans."
+   ],
+   0.0023273855702094647
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Material Noun"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Pronoun",
+    "Pronoun"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verb-Intran."
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Adverb",
+    "Adverb"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Pronoun",
+    "Material Noun"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Interjection",
+    "Material Noun"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Noun"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verb-Trans."
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Noun"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Noun"
+   ],
+   0.0015515903801396431
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Noun"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adjective Adj."
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Noun"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Proper Noun"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Noun"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Noun"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Pronoun"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Material Noun",
+    "Adposition"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Interjection",
+    "Proper Noun"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Adj."
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Verbable",
+    "Verbal Adj."
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Conjuction"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Common Noun",
+    "Conjuction"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Conjuction"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Pronoun",
+    "Verb-Trans."
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Conjuction",
+    "Abstract Noun"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adverb"
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Common Noun",
+    "Verb-Intran."
+   ],
+   0.0007757951900698216
+  ],
+  [
+   [
+    "Verbable",
+    "Interjection"
+   ],
+   0.0007757951900698216
+  ]
+ ],
+ "ন": [
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.1462140992167102
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.07049608355091384
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.06527415143603134
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.06005221932114883
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.044386422976501305
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.0391644908616188
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.0391644908616188
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.0391644908616188
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.031331592689295036
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Noun"
+   ],
+   0.028720626631853787
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.02610966057441253
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.02349869451697128
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.02349869451697128
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.020887728459530026
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.018276762402088774
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.018276762402088774
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.015665796344647518
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.015665796344647518
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.015665796344647518
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.013054830287206266
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.013054830287206266
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.013054830287206266
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Noun"
+   ],
+   0.013054830287206266
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.013054830287206266
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.013054830287206266
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Noun"
+   ],
+   0.013054830287206266
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.010443864229765013
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.010443864229765013
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.010443864229765013
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.010443864229765013
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.010443864229765013
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.010443864229765013
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.007832898172323759
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.007832898172323759
+  ],
+  [
+   [
+    "Verbable",
+    "Verbal Noun"
+   ],
+   0.007832898172323759
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.005221932114882507
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.005221932114882507
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.005221932114882507
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.005221932114882507
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Noun",
+    "Abstract Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Common Noun",
+    "Adposition"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbable"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Conjuction",
+    "Proper Adj."
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Adverb",
+    "Material Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Trans."
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Pronoun",
+    "Verbal Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.0026109660574412533
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbable"
+   ],
+   0.0026109660574412533
+  ]
+ ],
+ "িত": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.2641509433962264
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.13679245283018868
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.07547169811320754
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.07547169811320754
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.07075471698113207
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.05660377358490566
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Adj."
+   ],
+   0.04245283018867924
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.03773584905660377
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.02830188679245283
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.02358490566037736
+  ],
+  [
+   [
+    "Verbable",
+    "Verbal Adj."
+   ],
+   0.018867924528301886
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Adj."
+   ],
+   0.014150943396226415
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.014150943396226415
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.009433962264150943
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.009433962264150943
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.009433962264150943
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.009433962264150943
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adverb"
+   ],
+   0.009433962264150943
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.009433962264150943
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.009433962264150943
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Pronoun",
+    "Verbal Adj."
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Noun"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adverb"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Adj."
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Adverb",
+    "Adverb"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.0047169811320754715
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.0047169811320754715
+  ]
+ ],
+ "না": [
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.18571428571428572
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.05714285714285714
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.05714285714285714
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.05714285714285714
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.04285714285714286
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.04285714285714286
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.04285714285714286
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.04285714285714286
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.04285714285714286
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.02857142857142857
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.02857142857142857
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.02857142857142857
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Adverb",
+    "Abstract Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Common Noun",
+    "Conjuction"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Material Noun",
+    "Pronoun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.014285714285714285
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.014285714285714285
+  ]
+ ],
+ "াৰ": [
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.08235294117647059
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.07058823529411765
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.07058823529411765
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.047058823529411764
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.047058823529411764
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.03529411764705882
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.03529411764705882
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.03529411764705882
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.023529411764705882
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.023529411764705882
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.023529411764705882
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.023529411764705882
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.023529411764705882
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Trans."
+   ],
+   0.023529411764705882
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.023529411764705882
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.023529411764705882
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Pronoun",
+    "Pronoun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Common Noun",
+    "Pronoun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Trans."
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Adverb",
+    "Abstract Noun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Trans."
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Noun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Trans."
+   ],
+   0.011764705882352941
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.011764705882352941
+  ]
+ ],
+ "ী": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.1912313432835821
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.125
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.08488805970149253
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.05037313432835821
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.049440298507462684
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.041044776119402986
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.03731343283582089
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.03451492537313433
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.026119402985074626
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.024253731343283583
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.022388059701492536
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.020522388059701493
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.01958955223880597
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.017723880597014924
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.016791044776119403
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.01585820895522388
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.01585820895522388
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.012126865671641791
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.011194029850746268
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.010261194029850746
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.010261194029850746
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.009328358208955223
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.008395522388059701
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.008395522388059701
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.008395522388059701
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.007462686567164179
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.007462686567164179
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.007462686567164179
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.0065298507462686565
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.0065298507462686565
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.005597014925373134
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.005597014925373134
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.0046641791044776115
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.0046641791044776115
+  ],
+  [
+   [
+    "Verbable",
+    "Common Noun"
+   ],
+   0.0046641791044776115
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.0037313432835820895
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Adj."
+   ],
+   0.0037313432835820895
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.0037313432835820895
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.0037313432835820895
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Noun"
+   ],
+   0.0037313432835820895
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.002798507462686567
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.002798507462686567
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.002798507462686567
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.002798507462686567
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.002798507462686567
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Noun"
+   ],
+   0.002798507462686567
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.0018656716417910447
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adjective Adj."
+   ],
+   0.0018656716417910447
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.0018656716417910447
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.0018656716417910447
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.0018656716417910447
+  ],
+  [
+   [
+    "Common Noun",
+    "Adjective Adj."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Adj."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Adverb"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Material Noun",
+    "Adverb"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adverb"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Adverb",
+    "Abstract Noun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Adverb",
+    "Proper Adj."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Material Noun",
+    "Interjection"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Adverb",
+    "Material Noun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Common Noun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Adj."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verbable",
+    "Verb-Trans."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Common Noun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Interjection",
+    "Proper Adj."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Adverb"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Pronoun"
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.0009328358208955224
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Noun"
+   ],
+   0.0009328358208955224
+  ]
+ ],
+ "য়": [
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.1044776119402985
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.1044776119402985
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.07462686567164178
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.05970149253731343
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.05970149253731343
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.05970149253731343
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Adverb",
+    "Adverb"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Adverb",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Intran."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adjective Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Adposition",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Interjection"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Conjuction",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adverb"
+   ],
+   0.014925373134328358
+  ]
+ ],
+ "কাৰী": [
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.4065040650406504
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.17886178861788618
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.16260162601626016
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.06504065040650407
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.032520325203252036
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.016260162601626018
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.016260162601626018
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.016260162601626018
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Adj."
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Noun"
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.008130081300813009
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.008130081300813009
+  ]
+ ],
+ "মূলক": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.639344262295082
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.13114754098360656
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.06557377049180328
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.03278688524590164
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.03278688524590164
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.03278688524590164
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.01639344262295082
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.01639344262295082
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.01639344262295082
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.01639344262295082
+  ]
+ ],
+ "ু": [
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.10273972602739725
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.06164383561643835
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.04794520547945205
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.04794520547945205
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.04794520547945205
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.0410958904109589
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.0410958904109589
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.03424657534246575
+  ],
+  [
+   [
+    "Verbable",
+    "Verb-Trans."
+   ],
+   0.03424657534246575
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.03424657534246575
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.03424657534246575
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.0273972602739726
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.0273972602739726
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.0273972602739726
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Verbable",
+    "Common Noun"
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.02054794520547945
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.0136986301369863
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.0136986301369863
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.0136986301369863
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.0136986301369863
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.0136986301369863
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Common Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Proper Noun",
+    "Interjection"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Interjection"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Proper Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Noun"
+   ],
+   0.00684931506849315
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.00684931506849315
+  ]
+ ],
+ "পতি": [
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.18072289156626506
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.1566265060240964
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.13253012048192772
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.0963855421686747
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.060240963855421686
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.04819277108433735
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.04819277108433735
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.04819277108433735
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verbable",
+    "Common Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Common Noun",
+    "Adverb"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Adverb",
+    "Adverb"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.012048192771084338
+  ]
+ ],
+ "ি": [
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.13246753246753246
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.08571428571428572
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.08181818181818182
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.05714285714285714
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.05454545454545454
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.03896103896103896
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.03896103896103896
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.023376623376623377
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.02077922077922078
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.01948051948051948
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.01948051948051948
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.01818181818181818
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.016883116883116882
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Noun"
+   ],
+   0.016883116883116882
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.016883116883116882
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.016883116883116882
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.015584415584415584
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.012987012987012988
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.012987012987012988
+  ],
+  [
+   [
+    "Verbable",
+    "Verb-Trans."
+   ],
+   0.011688311688311689
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.011688311688311689
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.01038961038961039
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.00909090909090909
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.00909090909090909
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.00909090909090909
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.00909090909090909
+  ],
+  [
+   [
+    "Adverb",
+    "Abstract Noun"
+   ],
+   0.007792207792207792
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.007792207792207792
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adverb"
+   ],
+   0.007792207792207792
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.007792207792207792
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.007792207792207792
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.007792207792207792
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Noun"
+   ],
+   0.007792207792207792
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.006493506493506494
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adverb"
+   ],
+   0.006493506493506494
+  ],
+  [
+   [
+    "Verbable",
+    "Verb-Intran."
+   ],
+   0.006493506493506494
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.006493506493506494
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.006493506493506494
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.006493506493506494
+  ],
+  [
+   [
+    "Adverb",
+    "Adverb"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Material Noun",
+    "Adverb"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Adverb"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.005194805194805195
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.003896103896103896
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.003896103896103896
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.003896103896103896
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Adverb"
+   ],
+   0.003896103896103896
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.003896103896103896
+  ],
+  [
+   [
+    "Verbable",
+    "Adverb"
+   ],
+   0.0025974025974025974
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Abstract Noun"
+   ],
+   0.0025974025974025974
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.0025974025974025974
+  ],
+  [
+   [
+    "Verbable",
+    "Common Noun"
+   ],
+   0.0025974025974025974
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Noun"
+   ],
+   0.0025974025974025974
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.0025974025974025974
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Common Noun"
+   ],
+   0.0025974025974025974
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.0025974025974025974
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Common Noun",
+    "Adverb"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verb-Trans."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Trans."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Adverb"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Material Noun",
+    "Conjuction"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Proper Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Common Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Material Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Pronoun",
+    "Material Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Intran."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Trans."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Conjuction",
+    "Abstract Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Conjuction"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Adverb",
+    "Verbal Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Adverb",
+    "Proper Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Conjuction"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Common Noun",
+    "Conjuction"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Conjuction"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Adverb",
+    "Common Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Adposition",
+    "Adverb"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Interjection"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Conjuction",
+    "Adverb"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Noun"
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.0012987012987012987
+  ],
+  [
+   [
+    "Verbable",
+    "Interjection"
+   ],
+   0.0012987012987012987
+  ]
+ ],
+ "তা": [
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.7051851851851851
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.0637037037037037
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.05037037037037037
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Noun"
+   ],
+   0.03111111111111111
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.02962962962962963
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Abstract Noun"
+   ],
+   0.023703703703703703
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.01037037037037037
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.005925925925925926
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.005925925925925926
+  ],
+  [
+   [
+    "Adverb",
+    "Abstract Noun"
+   ],
+   0.005925925925925926
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.0044444444444444444
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.0044444444444444444
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.002962962962962963
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Adjective",
+    "Abstract Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Common Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Adverb",
+    "Common Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Adposition",
+    "Abstract Noun"
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.0014814814814814814
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.0014814814814814814
+  ]
+ ],
+ "য়া": [
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.1592356687898089
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Intran."
+   ],
+   0.09554140127388536
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Trans."
+   ],
+   0.08280254777070063
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.07643312101910828
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.050955414012738856
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.03821656050955414
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.03821656050955414
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Intran."
+   ],
+   0.03821656050955414
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.03821656050955414
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Trans."
+   ],
+   0.03184713375796178
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.025477707006369428
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.025477707006369428
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.025477707006369428
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.025477707006369428
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.01910828025477707
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.01910828025477707
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.01910828025477707
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.012738853503184714
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.012738853503184714
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.012738853503184714
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verb-Intran."
+   ],
+   0.012738853503184714
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.012738853503184714
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.012738853503184714
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.012738853503184714
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Trans."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Adverb",
+    "Proper Noun"
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Common Noun"
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adjective Adj."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Proper Adj."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Common Noun",
+    "Verb-Trans."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verb-Trans."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Pronoun",
+    "Pronoun"
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Adj."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.006369426751592357
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.006369426751592357
+  ]
+ ],
+ "্য": [
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.14736842105263157
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.1368421052631579
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.12105263157894737
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.04736842105263158
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.042105263157894736
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.042105263157894736
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.03684210526315789
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.03684210526315789
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.031578947368421054
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.02631578947368421
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.02631578947368421
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.02631578947368421
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.021052631578947368
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.021052631578947368
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.021052631578947368
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.015789473684210527
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.015789473684210527
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.015789473684210527
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.015789473684210527
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.015789473684210527
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Adj."
+   ],
+   0.010526315789473684
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.010526315789473684
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.010526315789473684
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.010526315789473684
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.010526315789473684
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adverb"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Adjective Adj."
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Adj."
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Adjective Adj."
+   ],
+   0.005263157894736842
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.005263157894736842
+  ]
+ ],
+ "ণ": [
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.10738255033557047
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.09395973154362416
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.06711409395973154
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.06040268456375839
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.053691275167785234
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.04697986577181208
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.040268456375838924
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Noun"
+   ],
+   0.03355704697986577
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.03355704697986577
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.03355704697986577
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.026845637583892617
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Noun"
+   ],
+   0.026845637583892617
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.020134228187919462
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.020134228187919462
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.020134228187919462
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.020134228187919462
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.020134228187919462
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.020134228187919462
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.020134228187919462
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.013422818791946308
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.013422818791946308
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.013422818791946308
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Noun"
+   ],
+   0.013422818791946308
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.013422818791946308
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.013422818791946308
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verb-Intran."
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Pronoun",
+    "Material Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbable"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Pronoun",
+    "Verbal Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Verbable",
+    "Verbal Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Adposition",
+    "Abstract Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Adj."
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Interjection",
+    "Material Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Noun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Material Noun",
+    "Pronoun"
+   ],
+   0.006711409395973154
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.006711409395973154
+  ]
+ ],
+ "কৰ": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.373134328358209
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.07462686567164178
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.05970149253731343
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.05970149253731343
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.05970149253731343
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Noun",
+    "Adjective Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Trans."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ]
+ ],
+ "ভাৱে": [
+  [
+   [
+    "Proper Adj.",
+    "Adverb"
+   ],
+   0.8307692307692308
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adverb"
+   ],
+   0.046153846153846156
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Adj."
+   ],
+   0.03076923076923077
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Adverb"
+   ],
+   0.023076923076923078
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adverb"
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Adverb",
+    "Adverb"
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adposition"
+   ],
+   0.007692307692307693
+  ],
+  [
+   [
+    "Adjective",
+    "Adverb"
+   ],
+   0.007692307692307693
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adposition"
+   ],
+   0.007692307692307693
+  ],
+  [
+   [
+    "Pronoun",
+    "Adverb"
+   ],
+   0.007692307692307693
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.007692307692307693
+  ]
+ ],
+ "ম": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.12698412698412698
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.1111111111111111
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.07936507936507936
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.06349206349206349
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.06349206349206349
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.06349206349206349
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.047619047619047616
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.031746031746031744
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.031746031746031744
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.031746031746031744
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.031746031746031744
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.031746031746031744
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.031746031746031744
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.031746031746031744
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Noun"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Conjuction"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Conjuction"
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.015873015873015872
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.015873015873015872
+  ]
+ ],
+ "ীয়": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.3684210526315789
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.10526315789473684
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.09649122807017543
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.07894736842105263
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.06140350877192982
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.03508771929824561
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.02631578947368421
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adjective Adj."
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Common Noun",
+    "Adjective Adj."
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Conjuction",
+    "Proper Adj."
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.008771929824561403
+  ],
+  [
+   [
+    "Pronoun",
+    "Pronoun"
+   ],
+   0.008771929824561403
+  ]
+ ],
+ "তি": [
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.1791044776119403
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.1044776119402985
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.05970149253731343
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.05970149253731343
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Noun"
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.014925373134328358
+  ]
+ ],
+ "জ": [
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.14705882352941177
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.11764705882352941
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.08823529411764706
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.07352941176470588
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.04411764705882353
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.04411764705882353
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Common Noun",
+    "Verb-Intran."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Intran."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Conjuction",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ]
+ ],
+ "ময়": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.4819277108433735
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.20481927710843373
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.04819277108433735
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.03614457831325301
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Adposition",
+    "Proper Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Proper Noun",
+    "Adjective Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.012048192771084338
+  ]
+ ],
+ "গত": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.417910447761194
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.11940298507462686
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.04477611940298507
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.029850746268656716
+  ],
+  [
+   [
+    "Adposition",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Conjuction",
+    "Common Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adverb"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.014925373134328358
+  ]
+ ],
+ "হীন": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.6237623762376238
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.09900990099009901
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.06435643564356436
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.0594059405940594
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.0297029702970297
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.024752475247524754
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.01485148514851485
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.01485148514851485
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.009900990099009901
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.009900990099009901
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Verbable",
+    "Verbal Adj."
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Adjective Adj."
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Adjective Adj."
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.0049504950495049506
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.0049504950495049506
+  ]
+ ],
+ "িক": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.2903225806451613
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.16129032258064516
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.0967741935483871
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.0967741935483871
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.043010752688172046
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.021505376344086023
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.021505376344086023
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.021505376344086023
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.021505376344086023
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Proper Noun",
+    "Adjective Adj."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbable"
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Trans."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Common Noun",
+    "Adjective Adj."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Conjuction",
+    "Proper Adj."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Adverb",
+    "Proper Adj."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.010752688172043012
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Adj."
+   ],
+   0.010752688172043012
+  ]
+ ],
+ "ত্ব": [
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.4077669902912621
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.2912621359223301
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.14563106796116504
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.02912621359223301
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.02912621359223301
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.019417475728155338
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.019417475728155338
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.019417475728155338
+  ],
+  [
+   [
+    "Adverb",
+    "Verbal Noun"
+   ],
+   0.009708737864077669
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.009708737864077669
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Abstract Noun"
+   ],
+   0.009708737864077669
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.009708737864077669
+  ]
+ ],
+ "্": [
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.16666666666666666
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.07575757575757576
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.06060606060606061
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.045454545454545456
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.045454545454545456
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.045454545454545456
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.030303030303030304
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Verbable",
+    "Common Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.015151515151515152
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verb-Trans."
+   ],
+   0.015151515151515152
+  ]
+ ],
+ "িকা": [
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.14705882352941177
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.08823529411764706
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.08823529411764706
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.08823529411764706
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.04411764705882353
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.04411764705882353
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.04411764705882353
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.04411764705882353
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.04411764705882353
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Common Noun"
+   ],
+   0.014705882352941176
+  ]
+ ],
+ "ান": [
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.10810810810810811
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.08108108108108109
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.08108108108108109
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.08108108108108109
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.05405405405405406
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.05405405405405406
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.05405405405405406
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.05405405405405406
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Material Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Verbal Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.02702702702702703
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.02702702702702703
+  ]
+ ],
+ "বাদ": [
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.5930232558139535
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.11627906976744186
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.08139534883720931
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.046511627906976744
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.03488372093023256
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.023255813953488372
+  ],
+  [
+   [
+    "Adverb",
+    "Abstract Noun"
+   ],
+   0.023255813953488372
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.011627906976744186
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.011627906976744186
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.011627906976744186
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Interjection"
+   ],
+   0.011627906976744186
+  ],
+  [
+   [
+    "Conjuction",
+    "Abstract Noun"
+   ],
+   0.011627906976744186
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.011627906976744186
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.011627906976744186
+  ]
+ ],
+ "ৱা": [
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.15
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.125
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.075
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.05
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.05
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.05
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.05
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Trans."
+   ],
+   0.025
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Intran."
+   ],
+   0.025
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Trans."
+   ],
+   0.025
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.025
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.025
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.025
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.025
+  ]
+ ],
+ "লি": [
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.13924050632911392
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.11392405063291139
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.10126582278481013
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.06329113924050633
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.06329113924050633
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.05063291139240506
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.0379746835443038
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.02531645569620253
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.02531645569620253
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verbal Noun"
+   ],
+   0.02531645569620253
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.02531645569620253
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.02531645569620253
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.02531645569620253
+  ],
+  [
+   [
+    "Interjection",
+    "Abstract Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Adverb",
+    "Adverb"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Adverb",
+    "Material Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Verbal Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.012658227848101266
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Noun"
+   ],
+   0.012658227848101266
+  ]
+ ],
+ "কৰণ": [
+  [
+   [
+    "Proper Adj.",
+    "Verbal Noun"
+   ],
+   0.1728395061728395
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.14814814814814814
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.14814814814814814
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.1111111111111111
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Noun"
+   ],
+   0.07407407407407407
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.04938271604938271
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.037037037037037035
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.037037037037037035
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.024691358024691357
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.024691358024691357
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.024691358024691357
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.024691358024691357
+  ],
+  [
+   [
+    "Adverb",
+    "Verbal Noun"
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Conjuction",
+    "Abstract Noun"
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Trans."
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.012345679012345678
+  ],
+  [
+   [
+    "Adposition",
+    "Verbal Noun"
+   ],
+   0.012345679012345678
+  ]
+ ],
+ "শীল": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.5692307692307692
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.16923076923076924
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.046153846153846156
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.046153846153846156
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.03076923076923077
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.03076923076923077
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.03076923076923077
+  ],
+  [
+   [
+    "Common Noun",
+    "Adjective Adj."
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.015384615384615385
+  ]
+ ],
+ "জনক": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.8103448275862069
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.05172413793103448
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.034482758620689655
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.034482758620689655
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.034482758620689655
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.017241379310344827
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adjective"
+   ],
+   0.017241379310344827
+  ]
+ ],
+ "ীয়া": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.20772946859903382
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.1111111111111111
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.10628019323671498
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.0821256038647343
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.07246376811594203
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.04830917874396135
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.03864734299516908
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.028985507246376812
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.024154589371980676
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.01932367149758454
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.01932367149758454
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.01932367149758454
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Adj."
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Proper Adj."
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adjective Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adverb"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adposition",
+    "Verbal Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adposition",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adverb",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Conjuction",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Common Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adjective Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbable",
+    "Verbal Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Conjuction"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Conjuction"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verbal Adj."
+   ],
+   0.004830917874396135
+  ]
+ ],
+ "হ": [
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.14634146341463414
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.0975609756097561
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.07317073170731707
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.04878048780487805
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Material Noun"
+   ],
+   0.04878048780487805
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.04878048780487805
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Intran."
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Verbable",
+    "Verbable"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Intran."
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Verb-Intran."
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Interjection",
+    "Verb-Intran."
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.024390243902439025
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.024390243902439025
+  ]
+ ],
+ "যুক্ত": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.4852941176470588
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.16176470588235295
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.07352941176470588
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.029411764705882353
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Adj."
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.014705882352941176
+  ]
+ ],
+ "ল": [
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.0966183574879227
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.05314009661835749
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.04830917874396135
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.04830917874396135
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.043478260869565216
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.03864734299516908
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.03864734299516908
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.033816425120772944
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.033816425120772944
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.028985507246376812
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.028985507246376812
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.028985507246376812
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.024154589371980676
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.024154589371980676
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.024154589371980676
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.024154589371980676
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.024154589371980676
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.01932367149758454
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Trans."
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbable"
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Trans."
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.014492753623188406
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Material Noun"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Trans."
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbable"
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Intran."
+   ],
+   0.00966183574879227
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adverb",
+    "Material Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adverb",
+    "Verbal Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verb-Trans."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Trans."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Interjection",
+    "Material Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbable"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adverb",
+    "Common Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Verb-Trans."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adjective Adj.",
+    "Adjective Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Common Noun",
+    "Adverb"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Intran."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verb-Intran."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Adposition",
+    "Verb-Intran."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Material Noun",
+    "Adverb"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Common Noun",
+    "Verb-Trans."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Pronoun",
+    "Interjection"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Pronoun",
+    "Abstract Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Pronoun",
+    "Verbable"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.004830917874396135
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.004830917874396135
+  ]
+ ],
+ "াল": [
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.12903225806451613
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.12903225806451613
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.08064516129032258
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.04838709677419355
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.04838709677419355
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Trans."
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.03225806451612903
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Verb-Trans."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Common Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Material Noun",
+    "Adjective Adj."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Adj."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Intran."
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Noun"
+   ],
+   0.016129032258064516
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.016129032258064516
+  ]
+ ],
+ "ৰা": [
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.13333333333333333
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.1
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.1
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.1
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.06666666666666667
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.06666666666666667
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.06666666666666667
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Pronoun",
+    "Common Noun"
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.03333333333333333
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.03333333333333333
+  ]
+ ],
+ "পূৰ্ণ": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.8153846153846154
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.06153846153846154
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.03076923076923077
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.03076923076923077
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adjective Adj."
+   ],
+   0.015384615384615385
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.015384615384615385
+  ]
+ ],
+ "ুৱা": [
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.19607843137254902
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.17647058823529413
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Verbable",
+    "Verb-Trans."
+   ],
+   0.058823529411764705
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.0392156862745098
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.0392156862745098
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.0392156862745098
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.0392156862745098
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Pronoun"
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Pronoun"
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verb-Trans."
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Adj."
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Adverb",
+    "Verb-Intran."
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Adposition",
+    "Proper Adj."
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Conjuction",
+    "Conjuction"
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Proper Adj."
+   ],
+   0.0196078431372549
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.0196078431372549
+  ]
+ ],
+ "ৰি": [
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.0851063829787234
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.06382978723404255
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.06382978723404255
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Adj."
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.0425531914893617
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Adverb"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Adj."
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Material Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Proper Noun",
+    "Abstract Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.02127659574468085
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.02127659574468085
+  ]
+ ],
+ "কা": [
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.14035087719298245
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.10526315789473684
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.08771929824561403
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.07017543859649122
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.05263157894736842
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.05263157894736842
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.05263157894736842
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Adj."
+   ],
+   0.03508771929824561
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.03508771929824561
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.03508771929824561
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.03508771929824561
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Proper Noun",
+    "Proper Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Conjuction",
+    "Common Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Adverb",
+    "Common Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Conjuction",
+    "Conjuction"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Proper Noun",
+    "Conjuction"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Conjuction"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Proper Noun",
+    "Common Noun"
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.017543859649122806
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.017543859649122806
+  ]
+ ],
+ "িয়া": [
+  [
+   [
+    "Abstract Noun",
+    "Verb-Trans."
+   ],
+   0.09090909090909091
+  ],
+  [
+   [
+    "Verbable",
+    "Verb-Trans."
+   ],
+   0.09090909090909091
+  ],
+  [
+   [
+    "Material Noun",
+    "Verb-Trans."
+   ],
+   0.09090909090909091
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.06818181818181818
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.06818181818181818
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verb-Trans."
+   ],
+   0.06818181818181818
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.045454545454545456
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verb-Intran."
+   ],
+   0.045454545454545456
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verb-Intran."
+   ],
+   0.045454545454545456
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adverb"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verb-Trans."
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Common Noun",
+    "Verb-Trans."
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Material Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Verbable",
+    "Verb-Intran."
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Common Noun",
+    "Verb-Intran."
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.022727272727272728
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.022727272727272728
+  ]
+ ],
+ "নি": [
+  [
+   [
+    "Verbable",
+    "Abstract Noun"
+   ],
+   0.1686746987951807
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Abstract Noun"
+   ],
+   0.0783132530120482
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Abstract Noun"
+   ],
+   0.07228915662650602
+  ],
+  [
+   [
+    "Verbable",
+    "Verbal Noun"
+   ],
+   0.06626506024096386
+  ],
+  [
+   [
+    "Material Noun",
+    "Material Noun"
+   ],
+   0.060240963855421686
+  ],
+  [
+   [
+    "Material Noun",
+    "Abstract Noun"
+   ],
+   0.060240963855421686
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Abstract Noun"
+   ],
+   0.04819277108433735
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Material Noun"
+   ],
+   0.03614457831325301
+  ],
+  [
+   [
+    "Common Noun",
+    "Abstract Noun"
+   ],
+   0.03614457831325301
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Verbal Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Verbal Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Proper Noun",
+    "Material Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Common Noun",
+    "Common Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Common Noun",
+    "Material Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Common Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Material Noun",
+    "Common Noun"
+   ],
+   0.024096385542168676
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Material Noun"
+   ],
+   0.018072289156626505
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Common Noun"
+   ],
+   0.018072289156626505
+  ],
+  [
+   [
+    "Material Noun",
+    "Proper Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Verbal Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Material Noun",
+    "Verbal Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Common Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verb-Intran.",
+    "Material Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Abstract Noun"
+   ],
+   0.012048192771084338
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Adverb"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Adj."
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Verbable",
+    "Proper Adj."
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Material Noun"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Common Noun",
+    "Proper Noun"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Proper Noun"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Verbable",
+    "Material Noun"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Proper Adj.",
+    "Abstract Noun"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Verbal Noun"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Verb-Trans.",
+    "Proper Adj."
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Abstract Noun",
+    "Proper Adj."
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Verbal Noun",
+    "Proper Adj."
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Pronoun",
+    "Proper Adj."
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Common Noun",
+    "Verbal Noun"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Proper Noun",
+    "Verbal Noun"
+   ],
+   0.006024096385542169
+  ],
+  [
+   [
+    "Verbal Adj.",
+    "Abstract Noun"
+   ],
+   0.006024096385542169
+  ]
+ ]
+}

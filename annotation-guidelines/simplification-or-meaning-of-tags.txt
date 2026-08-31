@@ -1,0 +1,75 @@
+{
+    "Abstract Noun": Noun sub-classification for words like - faith, love, hate, one, two, etc.
+    "Common Noun": Noun sub-classification for words like - bird, father, girl, president, country, etc.
+    "Material Noun": Noun sub-classification for words like - bus, table, chair, window, etc.
+    "Verbal Noun": Noun sub-classification for words like - run, writing, study, etc.
+    "Noun": Anomalous in xobdo_tagset, we keep it anyway.
+    "Proper Noun": Noun sub-classification for words like - tezpur, japan, english, japanese, etc.
+    "Pronoun": I, me, my, their, they, etc.
+    "Adverb": Modifies the verb like the manner in which an action is peformed. E.g. eats [daily], runs [fast], etc.
+    "Verbable": Verbs with the last [vowel symbol] removed. Such words require a mandatory suffix.
+    "neg_v_verb": Verbs with the first [vowel character] removed. Such words require a mandatory prefix.
+    "Verb-Trans.": Transitive verbs require a direct object. E.g. I [eat] -> {rice}.
+    "Verb-Intran.": Intransitive verbs do not require a direct object, but can take an indirect object (prepositional phrase). E.g. I [sleep] -> {on Sundays}.
+    "Adjective": Modifies the nouns.
+    "Adjective Adj.": Modifies the nouns.
+    "Proper Adj.": Modifies the nouns.
+    "Verbal Adj.": Modifies the nouns but can be used as verbs in a sentence. e.g. "xonghotito".
+    "Conjuction": Connects two clauses.
+    "Interjection": Expression words like - oh, alas, uh, etc.
+    "Adposition": Special words that tells about the physical reality. E.g. [On] the table.
+    "Others": Not needed
+
+    "derivational": that which transforms the PoS tag into another or the same PoS tag. Less useful if it do not change the PoS tag.
+
+    "abs": absolutive case acts like the agent (who does the action) sometimes or the subject of a fact (teu bor beya).
+    "nom": nominative case usually acts as the agent and sometimes used to refer to time.
+    "gen": genitive case is used to signify belongingness or possession.
+    "acc": accusative case. the receiver of the action or to whom the action affects.
+    "dat": dative case. the assamese version of "for" (or "to"). Moi tezpur[loi] jau.
+    "loc": the assamese version of "in" (or "on", "at", etc.) Moi tezpur[ot] thaku. loc is mor informative than Adposition.
+    "inst": instrumental case is used to signify the use of some object to achieve the action. Moi gari[re] tezpur jaam.
+
+    "number": can be further classified into singular or plural. Important information.
+
+    "modal": that which expresses uncertainity or certainity of a verb. Korile [heten], etc.
+    "adj_comp": transformation of verb to act as a adjective. Khel -> Khela/Khelua. complements like these can be followdd by other verbs.
+    "after_comp": signifies "after doing action". Ram-e bhat kha[i] kapur pindhile.
+    "reason_comp": signifies "to do action". Ram khab[oloi] jai.
+    "when_comp": signifies "on happening of action". Ram football khelu[te] poril.
+
+    "present-2i": present-2person-informal
+    "present-3a": present-3person-all
+    "present-2n": present-2person-neutral
+    "present-2f": present-2person-formal
+    "present-1": present-1person
+    "past-3a": past-3person-all
+    "past-2f": past-2person-formal
+    "past-2a": past-2person-all
+    "past-1": past-1person
+    "future-2f": future-2person-formal
+    "future-3a": future-3person-all
+    "future-1": future-1person
+
+    "ardha": ' ardha comma can occur anywhere.
+    "infix": e.g. lora-[kei]-jon. Kei pronoun is also the same.
+    "dash": - hyphen can occur anywhere.
+
+    "manner": can convert words into adverb. and sometimes into adjective.
+    "mod_attr": can convert words into adjective.
+    "quantity": how much. e.g. olop[maan], dui[baar], etc.
+    "compare": to compare to another word regarding something. iphone-bur samsung[otkoi] bhaal hoi.
+    "emph": just expesses mood, emphasis, or emotion. the word makes the same sense without this suffix.
+    "without": Not needed
+
+    "time": Not needed
+    "negative": negative prefixes that can only be followed by Verbs, Verbable and neg_v_verb.
+    "numerical": number words with the final character removed. ek->e, dui->du, tini->tin, etc.
+
+    "NA": Not needed
+
+    "other": Not needed
+
+    "ws": word start
+    "we": word end
+}

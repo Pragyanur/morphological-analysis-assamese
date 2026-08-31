@@ -1,0 +1,47 @@
+{
+  "তকৈ": "compare",
+
+  "সহ": "mod_attr",
+  "সৈতে": "mod_attr",
+  "ভুক্ত": "mod_attr",
+  "যোগে": "mod_attr",
+
+  "'": "ardha",
+  
+  "-": "dash",
+  
+  "কেই": "infix",
+
+  "বিনা": "without",
+
+  "ভাবে": "manner",
+  "ধৰণে": "manner",
+  "মনে": "manner",
+  "মতে": "manner",
+  "জুৰি": "manner",
+  "কৈ": "manner",
+
+  "ও": "emph",
+  "-ও": "emph",
+  "ই": "emph",
+  "গৈ": "emph",
+  "হি": "emph",
+  "ে": "emph",
+  "েই": "emph",
+  "ো": "emph",
+  "হে": "emph",
+  "য়ো": "emph",
+  "য়েই": "emph",
+  "নে": "emph",
+  "নো": "emph",
+  "বা": "emph",
+
+  "মান": "quantity",
+  "বাৰ": "quantity",
+  "সংখ্যক": "quantity",
+  "ফাল": "quantity",
+  "ভাগ": "quantity",
+  "ংশ": "quantity",
+  "চোৱা": "quantity",
+  "বিধ": "quantity"
+}

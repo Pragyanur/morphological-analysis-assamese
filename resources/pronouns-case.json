@@ -1,0 +1,990 @@
+{
+ "প্ৰতিজন": [
+  "Adverb",
+  "Pronoun"
+ ],
+ "স্বয়ং": [
+  "Adverb",
+  "Pronoun"
+ ],
+ "সকলো": [
+  "Pronoun"
+ ],
+ "সদৌ": [
+  "Pronoun"
+ ],
+ "সমস্ত": [
+  "Pronoun",
+  "Proper Adj."
+ ],
+ "সমগ্ৰ": [
+  "Pronoun",
+  "Proper Adj."
+ ],
+ "আটাই": [
+  "Pronoun",
+  "Proper Adj."
+ ],
+ "সব্": [
+  "Pronoun"
+ ],
+ "সৰ্ব": [
+  "Pronoun"
+ ],
+ "সদৌটি": [
+  "Pronoun"
+ ],
+ "সৰ্বজন": [
+  "Pronoun"
+ ],
+ "সব": [
+  "Pronoun"
+ ],
+ "অইন": [
+  "Pronoun"
+ ],
+ "অন্য": [
+  "Pronoun"
+ ],
+ "অপৰ": [
+  "Pronoun",
+  "Proper Adj."
+ ],
+ "দোচোৰা": [
+  "Pronoun"
+ ],
+ "দুয়ো": [
+  "Pronoun"
+ ],
+ "উভয়": [
+  "Pronoun"
+ ],
+ "তাক": [
+  "Pronoun",
+  "acc",
+  "n",
+  "p3"
+ ],
+ "তেওঁক": [
+  "Pronoun",
+  "acc",
+  "f",
+  "p3"
+ ],
+ "তেখেতক": [
+  "Pronoun",
+  "acc",
+  "f",
+  "p3"
+ ],
+ "তাহাক": [
+  "Pronoun",
+  "acc",
+  "f",
+  "p3"
+ ],
+ "তাঙ্ক": [
+  "Pronoun"
+ ],
+ "পিছদিনা": [
+  "Pronoun"
+ ],
+ "পাছদিনা": [
+  "Pronoun"
+ ],
+ "তেওঁ": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p3"
+ ],
+ "সি": [
+  "Pronoun",
+  "abs",
+  "n",
+  "p3"
+ ],
+ "তেৰা": [
+  "Pronoun",
+  "Proper Adj."
+ ],
+ "ইয়াত": [
+  "Pronoun",
+  "loc"
+ ],
+ "অ'ত": [
+  "Pronoun",
+  "loc"
+ ],
+ "আত": [
+  "Pronoun"
+ ],
+ "অত্ৰ": [
+  "Pronoun"
+ ],
+ "মই": [
+  "Pronoun",
+  "a",
+  "abs",
+  "p1"
+ ],
+ "মঞি": [
+  "Pronoun"
+ ],
+ "নিজে": [
+  "Pronoun",
+  "erg"
+ ],
+ "অহং": [
+  "Pronoun"
+ ],
+ "অমুকা": [
+  "Pronoun"
+ ],
+ "খোদ": [
+  "Pronoun",
+  "erg"
+ ],
+ "ইয়াক": [
+  "Pronoun",
+  "acc",
+  "n",
+  "p3"
+ ],
+ "এওঁক": [
+  "Pronoun",
+  "acc",
+  "f",
+  "p3"
+ ],
+ "ই": [
+  "Pronoun",
+  "abs",
+  "after_comp",
+  "emph",
+  "n",
+  "erg",
+  "p3",
+  "t_loc"
+ ],
+ "ইয়াৰ": [
+  "Pronoun",
+  "gen",
+  "n",
+  "p3"
+ ],
+ "মোৰ": [
+  "Abstract Noun",
+  "Pronoun",
+  "a",
+  "gen",
+  "p1"
+ ],
+ "মোহোৰ": [
+  "Pronoun",
+  "a",
+  "gen",
+  "p1"
+ ],
+ "মোই": [
+  "Pronoun",
+  "a",
+  "erg",
+  "p1"
+ ],
+ "বেলেগ": [
+  "Pronoun",
+  "Proper Adj.",
+  "Verbable"
+ ],
+ "আন": [
+  "Material Noun",
+  "Pronoun",
+  "Verb-Trans."
+ ],
+ "পৰ": [
+  "Abstract Noun",
+  "Pronoun",
+  "Verb-Intran."
+ ],
+ "আমাৰ": [
+  "Pronoun",
+  "a",
+  "gen",
+  "p1"
+ ],
+ "হামাৰি": [
+  "Pronoun",
+  "a",
+  "gen",
+  "p1"
+ ],
+ "আমাক": [
+  "Pronoun",
+  "a",
+  "acc",
+  "p1"
+ ],
+ "হামাক": [
+  "Pronoun",
+  "a",
+  "acc",
+  "p1"
+ ],
+ "আপোনাৰ": [
+  "Pronoun",
+  "Proper Adj.",
+  "f",
+  "gen",
+  "p2"
+ ],
+ "নিজা": [
+  "Pronoun",
+  "Proper Adj."
+ ],
+ "স্বকীয়": [
+  "Pronoun"
+ ],
+ "নিজস্ব": [
+  "Pronoun"
+ ],
+ "নিজ": [
+  "Pronoun"
+ ],
+ "স্ব": [
+  "Pronoun"
+ ],
+ "স্বীয়": [
+  "Pronoun"
+ ],
+ "নিজৰ": [
+  "Pronoun",
+  "Verb-Intran.",
+  "gen"
+ ],
+ "আপোন": [
+  "Common Noun",
+  "Pronoun"
+ ],
+ "আত্ম": [
+  "Pronoun"
+ ],
+ "জয়জনমী": [
+  "Pronoun"
+ ],
+ "তাই": [
+  "Pronoun",
+  "abs",
+  "n",
+  "p3"
+ ],
+ "সিহঁত": [
+  "Pronoun",
+  "abs",
+  "n",
+  "p3"
+ ],
+ "তাহুন": [
+  "Pronoun"
+ ],
+ "তাহাঁত": [
+  "Pronoun",
+  "abs",
+  "n",
+  "p3"
+ ],
+ "তেওঁলোক": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p3"
+ ],
+ "তেখেতসকল": [
+  "Pronoun",
+  "f",
+  "p3"
+ ],
+ "আমি": [
+  "Pronoun",
+  "a",
+  "abs",
+  "p1"
+ ],
+ "হামো": [
+  "Pronoun"
+ ],
+ "কি": [
+  "Pronoun"
+ ],
+ "কোন": [
+  "Pronoun"
+ ],
+ "কাই": [
+  "Pronoun"
+ ],
+ "কুনি": [
+  "Pronoun"
+ ],
+ "আপুনি": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p2"
+ ],
+ "তই": [
+  "Pronoun",
+  "abs",
+  "i",
+  "p2"
+ ],
+ "তুমি": [
+  "Pronoun",
+  "abs",
+  "n",
+  "p2"
+ ],
+ "তোহো": [
+  "Pronoun"
+ ],
+ "তুহুঁ": [
+  "Pronoun"
+ ],
+ "কিমান": [
+  "Pronoun"
+ ],
+ "কেতেক": [
+  "Pronoun"
+ ],
+ "কতক": [
+  "Pronoun"
+ ],
+ "কত": [
+  "Pronoun",
+  "loc"
+ ],
+ "কেখনি": [
+  "Pronoun"
+ ],
+ "কেখনিমেন": [
+  "Pronoun"
+ ],
+ "মোক": [
+  "Pronoun",
+  "a",
+  "acc",
+  "p1"
+ ],
+ "এইটো": [
+  "Pronoun"
+ ],
+ "এই": [
+  "Pronoun",
+  "abs",
+  "n",
+  "p3"
+ ],
+ "ইদং": [
+  "Pronoun"
+ ],
+ "এহি": [
+  "Pronoun"
+ ],
+ "এহু": [
+  "Pronoun"
+ ],
+ "আপোনালোক": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p2"
+ ],
+ "তোমালোক": [
+  "Pronoun",
+  "abs",
+  "n",
+  "p2"
+ ],
+ "তহঁত": [
+  "Pronoun",
+  "abs",
+  "i",
+  "p2"
+ ],
+ "আপোনাসৱ": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p2"
+ ],
+ "সেইটো": [
+  "Pronoun"
+ ],
+ "সৌটো": [
+  "Pronoun"
+ ],
+ "সেইয়া": [
+  "Pronoun"
+ ],
+ "সেয়া": [
+  "Pronoun"
+ ],
+ "সেই": [
+  "Pronoun"
+ ],
+ "সৌ": [
+  "Pronoun"
+ ],
+ "সৌৱা": [
+  "Pronoun"
+ ],
+ "তাত": [
+  "Pronoun",
+  "a",
+  "loc",
+  "p3"
+ ],
+ "সৌৱাত": [
+  "Pronoun",
+  "a",
+  "loc",
+  "p3"
+ ],
+ "সৌতাত": [
+  "Pronoun",
+  "a",
+  "loc",
+  "p3"
+ ],
+ "ত'ত": [
+  "Pronoun",
+  "a",
+  "loc",
+  "p3"
+ ],
+ "তেহেত": [
+  "Pronoun",
+  "a",
+  "abs",
+  "p3"
+ ],
+ "তালৈ": [
+  "Pronoun",
+  "a",
+  "dat",
+  "p3"
+ ],
+ "কিবা": [
+  "Pronoun"
+ ],
+ "কিহবা": [
+  "Pronoun"
+ ],
+ "কাক": [
+  "Common Noun",
+  "Material Noun",
+  "Pronoun"
+ ],
+ "কাহাক": [
+  "Pronoun"
+ ],
+ "তাইৰ": [
+  "Pronoun",
+  "gen",
+  "n",
+  "p3"
+ ],
+ "তাইক": [
+  "Pronoun",
+  "acc",
+  "n",
+  "p3"
+ ],
+ "তাৰ": [
+  "Pronoun",
+  "Verb-Trans.",
+  "gen",
+  "n",
+  "neg_v_verb",
+  "p3"
+ ],
+ "তেখেতৰ": [
+  "Pronoun",
+  "f",
+  "gen",
+  "p3"
+ ],
+ "তেওঁৰ": [
+  "Pronoun",
+  "f",
+  "gen",
+  "p3"
+ ],
+ "তাহান্ত": [
+  "Pronoun",
+  "abs",
+  "n",
+  "p3"
+ ],
+ "জনৈক": [
+  "Pronoun"
+ ],
+ "জনদিয়েক": [
+  "Pronoun"
+ ],
+ "কোনোবা": [
+  "Pronoun"
+ ],
+ "কোনবা": [
+  "Pronoun"
+ ],
+ "কাবাই": [
+  "Pronoun"
+ ],
+ "কুনবাই": [
+  "Pronoun",
+  "a",
+  "erg",
+  "p3"
+ ],
+ "কুনবাকানি": [
+  "Pronoun"
+ ],
+ "কেইটা": [
+  "Pronoun"
+ ],
+ "কেই": [
+  "Pronoun",
+  "infix"
+ ],
+ "এইবোৰ": [
+  "Pronoun"
+ ],
+ "এইবিলাক": [
+  "Pronoun"
+ ],
+ "এনেবোৰ": [
+  "Pronoun"
+ ],
+ "ইহঁত": [
+  "Pronoun",
+  "a",
+  "abs",
+  "p3"
+ ],
+ "আহন": [
+  "Pronoun"
+ ],
+ "আহোন": [
+  "Pronoun"
+ ],
+ "সৌবোৰ": [
+  "Pronoun"
+ ],
+ "সেইবোৰ": [
+  "Pronoun"
+ ],
+ "সেইবিলাক": [
+  "Pronoun"
+ ],
+ "সিবিলাক": [
+  "Pronoun"
+ ],
+ "সেইসোপা": [
+  "Pronoun"
+ ],
+ "সেইগাল": [
+  "Pronoun"
+ ],
+ "তযু": [
+  "Pronoun"
+ ],
+ "তেওঁলোকক": [
+  "Pronoun",
+  "acc",
+  "f",
+  "p3"
+ ],
+ "সিহঁতক": [
+  "Pronoun",
+  "acc",
+  "n",
+  "p3"
+ ],
+ "সিসকলক": [
+  "Pronoun",
+  "acc",
+  "n",
+  "p3"
+ ],
+ "তেৰাসকলক": [
+  "Pronoun",
+  "a",
+  "acc",
+  "p3"
+ ],
+ "তাহাঁতক": [
+  "Pronoun",
+  "a",
+  "acc",
+  "p3"
+ ],
+ "তাসম্বাক": [
+  "Pronoun"
+ ],
+ "অন্যান্য": [
+  "Pronoun"
+ ],
+ "আন আন": [
+  "Pronoun"
+ ],
+ "কোনো কোনো": [
+  "Pronoun"
+ ],
+ "কাৰ": [
+  "Pronoun",
+  "a",
+  "gen",
+  "p3"
+ ],
+ "কিহৰ": [
+  "Pronoun",
+  "a",
+  "gen",
+  "p3"
+ ],
+ "যাৰ": [
+  "Pronoun",
+  "a",
+  "gen",
+  "p3"
+ ],
+ "কাহাৰ": [
+  "Pronoun"
+ ],
+ "যাকেৰি": [
+  "Pronoun"
+ ],
+ "যাকৰ": [
+  "Pronoun"
+ ],
+ "যাকো": [
+  "Pronoun"
+ ],
+ "পৰহি": [
+  "Pronoun"
+ ],
+ "পৰ্শুই": [
+  "Pronoun"
+ ],
+ "পৰ্শুইদিনা": [
+  "Pronoun"
+ ],
+ "পৰহিলৈ": [
+  "Pronoun",
+  "dat"
+ ],
+ "সিদিনা": [
+  "Pronoun"
+ ],
+ "সিদিনাখন": [
+  "Pronoun"
+ ],
+ "সেইদিনা": [
+  "Pronoun"
+ ],
+ "আকলুৱা": [
+  "Pronoun"
+ ],
+ "একেলুৱা": [
+  "Pronoun"
+ ],
+ "যি": [
+  "Pronoun"
+ ],
+ "যেহি": [
+  "Pronoun"
+ ],
+ "অলৈ-তলৈ": [
+  "Pronoun",
+  "a",
+  "dat",
+  "p3"
+ ],
+ "ইঠাই-সিঠাইলৈ": [
+  "Pronoun",
+  "a",
+  "dat",
+  "p3"
+ ],
+ "ইফাল-সিফাললৈ": [
+  "Pronoun",
+  "a",
+  "dat",
+  "p3"
+ ],
+ "তুমি নিজে": [
+  "Pronoun",
+  "erg"
+ ],
+ "তুমি নিজকে": [
+  "Pronoun",
+  "acc"
+ ],
+ "তই নিজে": [
+  "Pronoun",
+  "erg"
+ ],
+ "তই নিজকে": [
+  "Pronoun",
+  "acc"
+ ],
+ "আপুনি নিজে": [
+  "Pronoun",
+  "erg"
+ ],
+ "আপুনি নিজকে": [
+  "Pronoun",
+  "acc"
+ ],
+ "তত্তুল্য": [
+  "Pronoun",
+  "Proper Adj."
+ ],
+ "তথা": [
+  "Conjuction",
+  "Pronoun"
+ ],
+ "তেনেকুৱা": [
+  "Pronoun"
+ ],
+ "তেনে": [
+  "Pronoun"
+ ],
+ "সেইৰূপ": [
+  "Pronoun"
+ ],
+ "সেই নিচিনা": [
+  "Pronoun"
+ ],
+ "তেনয়": [
+  "Pronoun"
+ ],
+ "তথৈবচ": [
+  "Pronoun"
+ ],
+ "তেনেকুৱাই": [
+  "Pronoun"
+ ],
+ "তেনুৱা": [
+  "Pronoun"
+ ],
+ "অমুক-তমুক": [
+  "Common Noun",
+  "Pronoun"
+ ],
+ "অমুক": [
+  "Pronoun"
+ ],
+ "তেখেত": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p3"
+ ],
+ "মাজনী": [
+  "Pronoun"
+ ],
+ "আইজনী": [
+  "Pronoun"
+ ],
+ "আইটি": [
+  "Pronoun"
+ ],
+ "আইকণ": [
+  "Pronoun"
+ ],
+ "মাই": [
+  "Pronoun"
+ ],
+ "মাইকণ": [
+  "Pronoun"
+ ],
+ "মাইচানা": [
+  "Pronoun"
+ ],
+ "মাইচেনা": [
+  "Pronoun"
+ ],
+ "মাতো": [
+  "Pronoun"
+ ],
+ "মুনুকণ": [
+  "Pronoun"
+ ],
+ "মাকণ": [
+  "Pronoun"
+ ],
+ "আইমানু": [
+  "Pronoun"
+ ],
+ "পৰস্পৰ": [
+  "Pronoun"
+ ],
+ "কেও": [
+  "Pronoun"
+ ],
+ "কেও-কিছু": [
+  "Pronoun"
+ ],
+ "আৰা": [
+  "Pronoun"
+ ],
+ "আৰাসব": [
+  "Pronoun"
+ ],
+ "এওঁলোক": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p3"
+ ],
+ "এখেতসকল": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p3"
+ ],
+ "আক-তাক": [
+  "Pronoun",
+  "acc"
+ ],
+ "ইটো-সিটোক": [
+  "Pronoun",
+  "acc"
+ ],
+ "ইজন-সিজনক": [
+  "Pronoun",
+  "acc"
+ ],
+ "লোক": [
+  "Common Noun",
+  "Pronoun",
+  "abs",
+  "number"
+ ],
+ "যাক-তাক": [
+  "Pronoun",
+  "acc"
+ ],
+ "যাকে-তাকে": [
+  "Pronoun",
+  "acc"
+ ],
+ "আৰ-তাৰ": [
+  "Pronoun",
+  "gen"
+ ],
+ "ইজন-সিজনৰ": [
+  "Pronoun",
+  "gen"
+ ],
+ "দুই-এক": [
+  "Pronoun"
+ ],
+ "স্বপক্ষ": [
+  "Pronoun"
+ ],
+ "আত্মপক্ষ": [
+  "Pronoun"
+ ],
+ "যাক": [
+  "Pronoun",
+  "acc"
+ ],
+ "যিজনক": [
+  "Pronoun",
+  "acc"
+ ],
+ "কালৈ": [
+  "Pronoun",
+  "dat"
+ ],
+ "কাৰ কাৰণে": [
+  "Pronoun",
+  "dat"
+ ],
+ "কাৰ বাবে": [
+  "Pronoun",
+  "dat"
+ ],
+ "কাৰ নিমিত্তে": [
+  "Pronoun",
+  "dat"
+ ],
+ "নিকটাত্মীয়": [
+  "Pronoun"
+ ],
+ "কোনটো": [
+  "Pronoun"
+ ],
+ "কোনডাল": [
+  "Pronoun"
+ ],
+ "কোনখন": [
+  "Pronoun"
+ ],
+ "কোনটি": [
+  "Pronoun"
+ ],
+ "নিজেই": [
+  "Pronoun",
+  "erg"
+ ],
+ "আপনা আপনি": [
+  "Pronoun"
+ ],
+ "এইবেলি": [
+  "Common Noun",
+  "Pronoun",
+  "loc"
+ ],
+ "ইবাৰ": [
+  "Pronoun",
+  "loc"
+ ],
+ "এইবাৰ": [
+  "Pronoun",
+  "loc"
+ ],
+ "যিহকে": [
+  "Pronoun"
+ ],
+ "যিয়েই নহওক": [
+  "Pronoun"
+ ],
+ "এসময়ত": [
+  "Pronoun",
+  "loc"
+ ],
+ "এওঁ": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p3"
+ ],
+ "এখেত": [
+  "Pronoun",
+  "abs",
+  "f",
+  "p3"
+ ],
+ "-ও": [
+  "Adposition",
+  "Conjuction",
+  "Pronoun",
+  "emph"
+ ],
+ "এয়া": [
+  "Pronoun"
+ ]
+}

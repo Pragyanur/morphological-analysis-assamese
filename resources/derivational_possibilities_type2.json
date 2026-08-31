@@ -1,0 +1,1061 @@
+{
+ "কৈ": {
+  "Adjective": [
+   "Adjective",
+   "Adverb"
+  ],
+  "Noun": [
+   "Adjective",
+   "Adverb"
+  ],
+  "Adverb": [
+   "Adjective",
+   "Adverb"
+  ],
+  "Verbable": [
+   "Adverb"
+  ],
+  "Pronoun": [
+   "Adverb",
+   "Conjunction"
+  ],
+  "Conjunction": [
+   "Adverb",
+   "Conjunction"
+  ],
+  "Verb": [
+   "Adverb"
+  ],
+  "Adposition": [
+   "Conjunction",
+   "Adposition"
+  ],
+  "Others": [
+   "Adverb"
+  ]
+ },
+ "া": {
+  "Noun": [
+   "Adjective",
+   "Adposition",
+   "Verb",
+   "Noun",
+   "Conjunction",
+   "Pronoun"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Noun",
+   "Others",
+   "Verb"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Verb",
+   "Adverb",
+   "Noun",
+   "Conjunction"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun",
+   "Conjunction",
+   "Verb"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Noun",
+   "Verb",
+   "Pronoun"
+  ],
+  "Adverb": [
+   "Adverb",
+   "Noun"
+  ],
+  "Others": [
+   "Noun"
+  ],
+  "Conjunction": [
+   "Noun"
+  ]
+ },
+ "ন": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verbable",
+   "Adposition"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Conjunction": [
+   "Adjective"
+  ],
+  "Adverb": [
+   "Noun"
+  ]
+ },
+ "িত": {
+  "Noun": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective"
+  ],
+  "Pronoun": [
+   "Adjective"
+  ],
+  "Adverb": [
+   "Adverb"
+  ]
+ },
+ "না": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Conjunction",
+   "Pronoun"
+  ],
+  "Verb": [
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Noun"
+  ],
+  "Adverb": [
+   "Noun"
+  ]
+ },
+ "াৰ": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb",
+   "Pronoun"
+  ],
+  "Verb": [
+   "Noun",
+   "Verb"
+  ],
+  "Adjective": [
+   "Noun",
+   "Verb"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Pronoun"
+  ],
+  "Adverb": [
+   "Noun"
+  ]
+ },
+ "ী": {
+  "Noun": [
+   "Adjective",
+   "Adverb",
+   "Noun",
+   "Others",
+   "Pronoun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adverb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Pronoun": [
+   "Noun"
+  ],
+  "Others": [
+   "Adjective"
+  ]
+ },
+ "য়": {
+  "Noun": [
+   "Adjective",
+   "Adverb",
+   "Noun",
+   "Others"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ],
+  "Verb": [
+   "Noun",
+   "Verb"
+  ],
+  "Adverb": [
+   "Adverb",
+   "Noun"
+  ],
+  "Adposition": [
+   "Adjective"
+  ],
+  "Conjunction": [
+   "Adjective"
+  ]
+ },
+ "কাৰী": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ]
+ },
+ "মূলক": {
+  "Noun": [
+   "Adjective"
+  ],
+  "Verb": [
+   "Adjective"
+  ]
+ },
+ "ু": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Others"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Pronoun": [
+   "Noun"
+  ]
+ },
+ "পতি": {
+  "Noun": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Adjective": [
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ],
+  "Adverb": [
+   "Adverb"
+  ]
+ },
+ "ি": {
+  "Noun": [
+   "Adjective",
+   "Verb",
+   "Adverb",
+   "Noun",
+   "Conjunction"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Verb",
+   "Adverb",
+   "Noun",
+   "Conjunction",
+   "Others"
+  ],
+  "Verb": [
+   "Adjective",
+   "Verb",
+   "Adverb",
+   "Noun",
+   "Conjunction"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Verb",
+   "Adverb",
+   "Noun",
+   "Others"
+  ],
+  "Adverb": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Conjunction": [
+   "Adverb",
+   "Noun"
+  ],
+  "Adposition": [
+   "Adverb"
+  ]
+ },
+ "তা": {
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adverb": [
+   "Noun"
+  ],
+  "Verb": [
+   "Noun"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ],
+  "Adposition": [
+   "Noun"
+  ]
+ },
+ "য়া": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adverb": [
+   "Noun"
+  ],
+  "Pronoun": [
+   "Pronoun"
+  ]
+ },
+ "্য": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective"
+  ]
+ },
+ "ণ": {
+  "Noun": [
+   "Adjective",
+   "Verbable",
+   "Verb",
+   "Noun",
+   "Pronoun"
+  ],
+  "Verb": [
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Pronoun": [
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ],
+  "Adposition": [
+   "Noun"
+  ],
+  "Others": [
+   "Noun"
+  ]
+ },
+ "কৰ": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ]
+ },
+ "ভাৱে": {
+  "Adjective": [
+   "Adjective",
+   "Adverb",
+   "Adposition"
+  ],
+  "Noun": [
+   "Adjective",
+   "Adverb"
+  ],
+  "Adverb": [
+   "Adverb"
+  ],
+  "Pronoun": [
+   "Adverb"
+  ]
+ },
+ "ম": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun",
+   "Conjunction"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Noun"
+  ]
+ },
+ "ীয়": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Noun",
+   "Pronoun"
+  ],
+  "Verb": [
+   "Adjective"
+  ],
+  "Conjunction": [
+   "Adjective"
+  ]
+ },
+ "তি": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ]
+ },
+ "জ": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adjective": [
+   "Noun"
+  ],
+  "Pronoun": [
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Conjunction": [
+   "Adjective"
+  ]
+ },
+ "ময়": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adposition": [
+   "Adjective"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective"
+  ],
+  "Adjective": [
+   "Adjective"
+  ]
+ },
+ "গত": {
+  "Noun": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Pronoun": [
+   "Noun"
+  ],
+  "Adposition": [
+   "Adjective"
+  ],
+  "Verbable": [
+   "Adjective"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Conjunction": [
+   "Noun"
+  ]
+ },
+ "হীন": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective"
+  ],
+  "Verb": [
+   "Adjective"
+  ],
+  "Adjective": [
+   "Adjective"
+  ]
+ },
+ "িক": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verbable"
+  ],
+  "Adjective": [
+   "Adjective"
+  ],
+  "Pronoun": [
+   "Adjective"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Conjunction": [
+   "Adjective"
+  ],
+  "Adverb": [
+   "Adjective"
+  ]
+ },
+ "ত্ব": {
+  "Noun": [
+   "Noun"
+  ],
+  "Adjective": [
+   "Noun"
+  ],
+  "Pronoun": [
+   "Noun"
+  ],
+  "Adverb": [
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ]
+ },
+ "্": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ]
+ },
+ "িকা": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ]
+ },
+ "ান": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Noun"
+  ],
+  "Pronoun": [
+   "Noun"
+  ]
+ },
+ "বাদ": {
+  "Noun": [
+   "Noun"
+  ],
+  "Adjective": [
+   "Noun",
+   "Others"
+  ],
+  "Adverb": [
+   "Noun"
+  ],
+  "Conjunction": [
+   "Noun"
+  ],
+  "Verbable": [
+   "Noun"
+  ],
+  "Verb": [
+   "Noun"
+  ]
+ },
+ "ৱা": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ]
+ },
+ "লি": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Others": [
+   "Noun"
+  ],
+  "Adverb": [
+   "Adverb",
+   "Noun"
+  ],
+  "Pronoun": [
+   "Noun"
+  ]
+ },
+ "কৰণ": {
+  "Adjective": [
+   "Noun"
+  ],
+  "Noun": [
+   "Noun",
+   "Verb"
+  ],
+  "Verb": [
+   "Noun"
+  ],
+  "Adverb": [
+   "Noun"
+  ],
+  "Conjunction": [
+   "Noun"
+  ],
+  "Adposition": [
+   "Noun"
+  ]
+ },
+ "শীল": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective"
+  ],
+  "Verb": [
+   "Adjective"
+  ]
+ },
+ "জনক": {
+  "Noun": [
+   "Adjective"
+  ],
+  "Adjective": [
+   "Adjective"
+  ]
+ },
+ "ীয়া": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Conjunction"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun",
+   "Conjunction"
+  ],
+  "Adposition": [
+   "Adjective"
+  ],
+  "Adverb": [
+   "Adjective"
+  ],
+  "Conjunction": [
+   "Adjective"
+  ]
+ },
+ "হ": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adjective": [
+   "Noun",
+   "Verb"
+  ],
+  "Verb": [
+   "Noun",
+   "Verb"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Verbable"
+  ],
+  "Pronoun": [
+   "Noun"
+  ],
+  "Others": [
+   "Verb"
+  ]
+ },
+ "যুক্ত": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective"
+  ],
+  "Adjective": [
+   "Adjective"
+  ],
+  "Verbable": [
+   "Adjective"
+  ]
+ },
+ "ল": {
+  "Noun": [
+   "Adjective",
+   "Verbable",
+   "Verb",
+   "Adverb",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun",
+   "Verbable",
+   "Verb"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adverb": [
+   "Noun"
+  ],
+  "Pronoun": [
+   "Adjective",
+   "Noun",
+   "Verbable",
+   "Others"
+  ],
+  "Others": [
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective"
+  ],
+  "Adposition": [
+   "Verb"
+  ]
+ },
+ "াল": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ]
+ },
+ "ৰা": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective"
+  ],
+  "Pronoun": [
+   "Noun"
+  ]
+ },
+ "পূৰ্ণ": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective"
+  ]
+ },
+ "ুৱা": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Pronoun"
+  ],
+  "Adjective": [
+   "Adjective"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun",
+   "Verb",
+   "Pronoun"
+  ],
+  "Adverb": [
+   "Verb"
+  ],
+  "Adposition": [
+   "Adjective"
+  ],
+  "Conjunction": [
+   "Conjunction"
+  ]
+ },
+ "ৰি": {
+  "Noun": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Noun"
+  ]
+ },
+ "কা": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Conjunction"
+  ],
+  "Verb": [
+   "Noun"
+  ],
+  "Adjective": [
+   "Noun"
+  ],
+  "Adverb": [
+   "Noun"
+  ],
+  "Conjunction": [
+   "Noun",
+   "Conjunction"
+  ],
+  "Pronoun": [
+   "Adjective"
+  ]
+ },
+ "িয়া": {
+  "Noun": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Verbable": [
+   "Noun",
+   "Verb"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun",
+   "Verb"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Adverb"
+  ]
+ },
+ "নি": {
+  "Noun": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verbable": [
+   "Adjective",
+   "Noun"
+  ],
+  "Verb": [
+   "Adjective",
+   "Noun"
+  ],
+  "Adjective": [
+   "Adjective",
+   "Adverb",
+   "Noun"
+  ],
+  "Pronoun": [
+   "Adjective"
+  ]
+ }
+}
