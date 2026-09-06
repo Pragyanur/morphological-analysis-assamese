@@ -8,7 +8,7 @@
     "Pronoun": I, me, my, their, they, it, there, here, etc.
     "Adverb": Modifies the verb like the manner in which an action is peformed. E.g. eats [daily], runs [fast], etc.
     "Verbable": Verbs with the last [vowel symbol] removed. Such words require a mandatory suffix.
-    "neg_v_verb": Verbs with the first [vowel character] removed. Such words require a mandatory prefix.
+    "neg_v_verb": Verbs with the first [vowel character] removed. Such words require a mandatory 'negation' prefix.
     "Verb-Trans.": Transitive verbs require a direct object. E.g. I [eat] -> {rice}.
     "Verb-Intran.": Intransitive verbs do not require a direct object, but can take an indirect object (prepositional phrase). E.g. I [sleep] -> {on Sundays}.
     "Adjective": Modifies the nouns.
