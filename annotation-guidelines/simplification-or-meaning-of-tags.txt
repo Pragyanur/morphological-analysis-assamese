@@ -39,16 +39,16 @@
     "when_comp": signifies "on happening of action". Ram football khelu[te] poril.
 
     "present-2i": present-2person-informal
-    "present-3a": present-3person-all
+    "present-3a": present-3person-any
     "present-2n": present-2person-neutral
     "present-2f": present-2person-formal
     "present-1": present-1person
-    "past-3a": past-3person-all
+    "past-3a": past-3person-any
     "past-2f": past-2person-formal
-    "past-2a": past-2person-all
+    "past-2a": past-2person-any
     "past-1": past-1person
     "future-2f": future-2person-formal
-    "future-3a": future-3person-all
+    "future-3a": future-3person-any
     "future-1": future-1person
 
     "ardha": ' ardha comma can occur anywhere.
