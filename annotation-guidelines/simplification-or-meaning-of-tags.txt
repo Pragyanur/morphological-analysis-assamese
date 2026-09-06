@@ -5,7 +5,7 @@
     "Verbal Noun": Noun sub-classification for words like - run, writing, study, etc.
     "Noun": Anomalous in xobdo_tagset, we keep it anyway.
     "Proper Noun": Noun sub-classification for words like - tezpur, japan, english, japanese, etc.
-    "Pronoun": I, me, my, their, they, etc.
+    "Pronoun": I, me, my, their, they, it, there, here, etc.
     "Adverb": Modifies the verb like the manner in which an action is peformed. E.g. eats [daily], runs [fast], etc.
     "Verbable": Verbs with the last [vowel symbol] removed. Such words require a mandatory suffix.
     "neg_v_verb": Verbs with the first [vowel character] removed. Such words require a mandatory prefix.
