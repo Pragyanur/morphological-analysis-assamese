@@ -35,9 +35,9 @@ file_ext = ".csv"
 DATASET_PATH = "dataset/1072-annotated-dataset-updated.csv"
 
 EPOCHS = 50
-NEG_RATIO = 25
-AUG_FACTOR = 25
-MODEL_DIM = 32
+NEG_RATIO = 21
+AUG_FACTOR = 21
+MODEL_DIM = 64
 HEADS = 8
 LAYERS = 1
 LINEAR = 32

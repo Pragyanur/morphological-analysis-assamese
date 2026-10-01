@@ -365,6 +365,8 @@ MORPHOLOGY_FEATURES = {
 
 #     return vector
 
+# case tags: suffix cases plus the pronoun-integrated ones (abs, t_loc)
+CASE_TAGS = {"abs", "acc", "dat", "erg", "gen", "inst", "loc", "t_loc"}
 
 def vectorize_morphology(
         sequence,
@@ -372,11 +374,17 @@ def vectorize_morphology(
         num_detail=NUMBER_DETAIL,
         default_features=MORPHOLOGY_FEATURES,
         verb_suffixes=VERB_SUFFIXES,
-        symbol_map=SYMBOL_MAP
+        symbol_map=SYMBOL_MAP,
+        case_tags=CASE_TAGS
     ):
     vector_dict = default_features.copy()
     pos_decay = 0.25
     pos_num = 0
+    # cases decay like POS: morphemes are read outermost-first (sequence[::-1]),
+    # so the first case encountered (the outer, syntactically governing one)
+    # gets 1, the next 0.75, ...
+    case_decay = 0.25
+    case_num = 0
     for morpheme in sequence[::-1]:
         this_tag = morpheme[1]
         this_morpheme = morpheme[0]
@@ -406,6 +414,11 @@ def vectorize_morphology(
             if t != "": vector_dict[t] += 1
             if p != "": vector_dict[p] += 1
             if h != "": vector_dict[h] += 1
+        elif this_tag in case_tags:
+            weight = max(1 - case_decay * case_num, case_decay)
+            if vector_dict[this_tag] == 0:
+                vector_dict[this_tag] = weight
+            case_num += 1
         else:
             vector_dict[this_tag] += 1
 

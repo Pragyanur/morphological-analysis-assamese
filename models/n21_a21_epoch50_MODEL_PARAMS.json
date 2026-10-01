@@ -1,5 +1,5 @@
 {
- "MODEL_DIM": 32,
+ "MODEL_DIM": 64,
  "HEADS": 8,
  "LAYERS": 1,
  "LINEAR": 32,
