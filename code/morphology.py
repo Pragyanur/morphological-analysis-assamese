@@ -218,7 +218,9 @@ def tense_person_honorific(verb_suffix):
     h = ""
     tense_pat = r"future|past|present"
     person_pat = r"[123]"
-    honorific_pat = r"[ainf]"
+    # honorific is the letter right after the person digit ("past-2f" -> "f");
+    # a bare "[ainf]" would match inside the tense word ("past" -> "a")
+    honorific_pat = r"\d([ainf])"
     match = re.search(tense_pat, verb_suffix)
     if match:
         t = match.group(0)
@@ -228,7 +230,7 @@ def tense_person_honorific(verb_suffix):
         p = "p" + person
     match = re.search(honorific_pat, verb_suffix)
     if match:
-        h = match.group(0)
+        h = match.group(1)
     return t, p, h
 
 VERB_SUFFIXES = [
@@ -315,19 +317,74 @@ MORPHOLOGY_FEATURES = {
     'without': 0
 }
 
+# def vectorize_morphology(
+#         sequence,
+#         pos_map=POS_MAP,
+#         num_detail=NUMBER_DETAIL,
+#         default_features=MORPHOLOGY_FEATURES,
+#         verb_suffixes=VERB_SUFFIXES,
+#         symbol_map=SYMBOL_MAP
+#         # vowel_verb_map=VOWEL_VERB
+#         # verbable_map=VERBABLE
+#     ):
+#     vector_dict = default_features.copy()
+#     pos_decay = 0.25
+#     pos_num = 0
+#     for morpheme in sequence[::-1]:
+#         this_tag = morpheme[1]
+#         this_morpheme = morpheme[0]
+#         if this_tag == "number":
+#             vector_dict["number"] = 1
+#             vector_dict[num_detail[this_morpheme]] += 1
+#         elif this_tag == "Pronoun":
+#             vector_dict["Pronoun"] += 1
+#             pos_num += 1
+#             p,h = pronoun_person_honorific(this_morpheme)
+#             if p != "": vector_dict[p] += 1
+#             if h != "": vector_dict[h] += 1
+#         elif this_tag == "symbol":
+#             vector_dict[symbol_map[this_morpheme]] += 1
+#         elif this_tag == "derivational":
+#             vector_dict[this_tag] = 1
+#         elif this_tag in pos_map:
+#             weight = 1 - pos_decay * pos_num
+#             if vector_dict[this_tag] == 0:
+#                 vector_dict[this_tag] = weight
+#                 pos_num += 1
+#             if vector_dict[pos_map[this_tag]] == 0:
+#                 vector_dict[pos_map[this_tag]] = weight
+#                 pos_num += 1
+#         elif this_tag in verb_suffixes:
+#             t,p,h = tense_person_honorific(this_tag)
+#             if t != "": vector_dict[t] += 1
+#             if p != "": vector_dict[p] += 1
+#             if h != "": vector_dict[h] += 1
+#         else: vector_dict[this_tag] += 1
+
+#     vector = np.array([value for key, value in sorted(vector_dict.items())])
+
+#     return vector
+
+# case tags: suffix cases plus the pronoun-integrated ones (abs, t_loc)
+CASE_TAGS = {"abs", "acc", "dat", "erg", "gen", "inst", "loc", "t_loc"}
+
 def vectorize_morphology(
         sequence,
         pos_map=POS_MAP,
         num_detail=NUMBER_DETAIL,
         default_features=MORPHOLOGY_FEATURES,
         verb_suffixes=VERB_SUFFIXES,
-        symbol_map=SYMBOL_MAP
-        # vowel_verb_map=VOWEL_VERB
-        # verbable_map=VERBABLE
+        symbol_map=SYMBOL_MAP,
+        case_tags=CASE_TAGS
     ):
     vector_dict = default_features.copy()
     pos_decay = 0.25
     pos_num = 0
+    # cases decay like POS: morphemes are read outermost-first (sequence[::-1]),
+    # so the first case encountered (the outer, syntactically governing one)
+    # gets 1, the next 0.75, ...
+    case_decay = 0.25
+    case_num = 0
     for morpheme in sequence[::-1]:
         this_tag = morpheme[1]
         this_morpheme = morpheme[0]
@@ -337,7 +394,7 @@ def vectorize_morphology(
         elif this_tag == "Pronoun":
             vector_dict["Pronoun"] += 1
             pos_num += 1
-            p,h = pronoun_person_honorific(this_morpheme)
+            p, h = pronoun_person_honorific(this_morpheme)
             if p != "": vector_dict[p] += 1
             if h != "": vector_dict[h] += 1
         elif this_tag == "symbol":
@@ -353,12 +410,17 @@ def vectorize_morphology(
                 vector_dict[pos_map[this_tag]] = weight
                 pos_num += 1
         elif this_tag in verb_suffixes:
-            t,p,h = tense_person_honorific(this_tag)
+            t, p, h = tense_person_honorific(this_tag)
             if t != "": vector_dict[t] += 1
             if p != "": vector_dict[p] += 1
             if h != "": vector_dict[h] += 1
-        else: vector_dict[this_tag] += 1
+        elif this_tag in case_tags:
+            weight = max(1 - case_decay * case_num, case_decay)
+            if vector_dict[this_tag] == 0:
+                vector_dict[this_tag] = weight
+            case_num += 1
+        else:
+            vector_dict[this_tag] += 1
 
     vector = np.array([value for key, value in sorted(vector_dict.items())])
-
     return vector
